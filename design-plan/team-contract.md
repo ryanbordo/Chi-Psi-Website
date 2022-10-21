@@ -10,13 +10,15 @@ Your team contract should probably include these elements. Feel free to remove o
 
 1. To what goals do we all commit?
 
-    TODO: discuss and document here
+    1. Divide all work evenly
+    2. Show up to meetings on time
+    3. Communicate
+    4. Have milestone done by end of Tuesday
+    5. Don't slack off on your part.
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
-    **Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
-
-    TODO: discuss and document here
+   1.
 
 3. By what means and how frequently will we meet or communicate?
 
@@ -40,11 +42,11 @@ Your team contract should probably include these elements. Feel free to remove o
 
     TODO: discuss and document here
 
-8. What are our procedures for re-visiting this contract?
+8.  What are our procedures for re-visiting this contract?
 
     TODO: discuss and document here
 
-9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
+9.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 
     **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
 
