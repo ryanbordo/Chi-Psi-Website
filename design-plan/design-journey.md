@@ -101,7 +101,7 @@ Our client wants a website that will represent Chi Psi in a positive and profess
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
+We believe the scope of the website if just right because chi psi is a national fraternity, but we are not creating content for nationals, just the cornell chapter. More specifically, we will create webpages for recruitment, alumni of the cornell chapter, philantropy, and the showcase imeragy and text from the cornell chapter. This is just the right size because it is only about the cornell chapter and the main events and information that pertain to the chapter.
 
 
 ## Plan/Schedule (Milestone 1)
