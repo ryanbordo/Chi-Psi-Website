@@ -17,8 +17,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
-
+Our client is the Chi Psi Cornell chapter. This client meets teh client rules because it is a campus organization.
 
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
@@ -26,41 +25,54 @@ TODO: who is your client?
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
+    Chi Psi is a fraternity whose purpose is philanthropy and brotherhood. It is focused on developing young men socially, morally, and intillectually.
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
+    This organization allows brothers to get financial scholarships and fellowships. It fosters strong friendships and helps brothers develop their character.
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
+    There is no Cornell chapter website, only the national one. The current national website is outdated and the information is difficult to find.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    TODO: take notes of your client's response
+    Our audience is students who could potentially be interested in joining the Chi Psi organization or Chi Psi alumni members.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    TODO: take notes of your client's response
+    We want visitors to learn more about the fraternity, learn about upcoming events, and learn about recruitment. Alumni can also learn about alumni events such as Homecoming.
 
 6. What are your goals for this site?
-
-    TODO: take notes of your client's response
+    We hope to promote Chi Psi as a positive experience for students at Cornell by showing pictures from previous events. We also want alumni to be able to connect back to their brotherhood and see what is going on currently.
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO: take notes of your client's response
+    We want to highlight Chi Psi's colors (purple and gold) and create a professional feel that is professional and in line with the national website.
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
-    TODO: take notes of your client's response
+    Our three favorite competitors are DSP (the top business frat at Cornell), PSE (another top business frat at Cornell), and the Delta Upsilon Cornell Chapter website. All of these sites are very professional, and we hope that our website can obtain a similar feel to these sites.
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+- spent first five minutes introducing oursleves
+- frat
+- philanthropy
+- brotherhood
+- strong friendships
+- informed client that we are making a static website
+- financial scholarships and fellowships
+- no Cornell website, only national site
+- current site is outdated
+- audience: students interested in recruitment, alumni
+- goals for visitors: learn about frat, upcoming events, and recruitment
+- show positive aspects of Chi Psi by showing pictures from current events that were held
+- want alumni to see what is going on currently at Chi Psi
+- want website to include fraternity colors and have a professional feel
+- favorite competitors: business and social frats at Cornell with nice websites (ex. DU, DSP, and PSE)
 
 
 ### Client Website (Milestone 1)
@@ -69,7 +81,7 @@ TODO: notes/minutes from your first client meeting
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+Our client wants a website that will represent Chi Psi in a positive and professional light that both entices new recruits and keeps alumni up to date on the fraternity's happenings. The purpose of the site is to provide information about the fraternity and its events. Our client specifically wants information about the fraternity as a whole and its brotherhood, specific information about recruitment, and information about alumni events to appear on the website. The client wants us to mimic the look and feel of a professional fraternity's website and include imagery of the Chi Psi brothers, house, and events and use Chi Psi's national colors to make the website unique to the Cornell chapter of Chi Psi.
 
 
 ### Client Goals (Milestone 1)
@@ -77,9 +89,9 @@ TODO: tell us about the website you intend to design and build
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
+- Infrom new recruits on important dates and events
+- Inform alumni on important dates and events
+- Showcase pictures of the fraternity and active brothers
 - ...
 
 
@@ -89,7 +101,7 @@ TODO: tell us about the website you intend to design and build
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
+We believe the scope of the website if just right because chi psi is a national fraternity, but we are not creating content for nationals, just the cornell chapter. More specifically, we will create webpages for recruitment, alumni of the cornell chapter, philantropy, and the showcase imeragy and text from the cornell chapter. This is just the right size because it is only about the cornell chapter and the main events and information that pertain to the chapter.
 
 
 ## Plan/Schedule (Milestone 1)
