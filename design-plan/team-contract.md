@@ -20,6 +20,7 @@ Your team contract should probably include these elements. Feel free to remove o
    1. Be on time to meetings
    2. Everyone put equal effort into your part
    3. We will communicate frequently about the work we are doing
+   4. We will make detailed commit messages
 
 3. By what means and how frequently will we meet or communicate?
 
@@ -27,21 +28,28 @@ Your team contract should probably include these elements. Feel free to remove o
 
 4. How will we communicate and work with our client?
 
-   We will communicate with our client via email and we can do a phone call when we need more extensive information.
+   We will communicate with our client via email and we can do a phone call when we need more extensive information
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
     **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
 
-    TODO: discuss and document here
+   There will be someone who submits our milestones.
+   Someone else will communicate directly with our client.
+   Each person will be responsible for their own page.
+   One person can gather the content that we may need directly from the client.
+
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    TODO: discuss and document here
+    We will meet regularly to make sure that everyone is contributing. If someone is not contributing equally or not delivering as promised, we will reach out to them and inform them of their behavior and tell them that it is their duty to contribute equally, as stated in the team contract. However, if this behavior continues, we will reach out to our TA.
+
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO: discuss and document here
+    We can do a group vote if there is a disagreeement.
+
+
 
 8.  What are our procedures for re-visiting this contract?
 
