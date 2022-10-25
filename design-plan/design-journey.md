@@ -64,6 +64,16 @@ Our client is the Chi Psi Cornell chapter. This client meets teh client rules be
 - philanthropy
 - brotherhood
 - strong friendships
+- informed client that we are making a static website
+- financial scholarships and fellowships
+- no Cornell website, only national site
+- current site is outdated
+- audience: students interested in recruitment, alumni
+- goals for visitors: learn about frat, upcoming events, and recruitment
+- show positive aspects of Chi Psi by showing pictures from current events that were held
+- want alumni to see what is going on currently at Chi Psi
+- want website to include fraternity colors and have a professional feel
+- favorite competitors: business and social frats at Cornell with nice websites (ex. DU, DSP, and PSE)
 
 
 ### Client Website (Milestone 1)
