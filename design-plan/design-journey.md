@@ -17,8 +17,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
-
+Our client is the Chi Psi Cornell chapter. This client meets teh client rules because it is a campus organization.
 
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
@@ -26,41 +25,45 @@ TODO: who is your client?
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
+    Chi Psi is a fraternity whose purpose is philanthropy and brotherhood. It is focused on developing young men socially, morally, and intillectually.
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
+    This organization allows brothers to get financial scholarships and fellowships. It fosters strong friendships and helps brothers develop their character.
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
+    There is no Cornell chapter website, only the national one. The current national website is outdated and the information is difficult to find.
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    TODO: take notes of your client's response
+    Our audience is students who could potentially be interested in joining the Chi Psi organization or Chi Psi alumni members.
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    TODO: take notes of your client's response
+    We want visitors to learn more about the fraternity, learn about upcoming events, and learn about recruitment. Alumni can also learn about alumni events such as Homecoming.
 
 6. What are your goals for this site?
 
-    TODO: take notes of your client's response
+  We hope to promote Chi Psi as a positive experience for students at Cornell by showing pictures from previous events. We also want alumni to be able to connect back to their brotherhood and see what is going on currently.
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO: take notes of your client's response
+    We want to highlight Chi Psi's colors (purple and gold) and create a professional feel that is professional and in line with the national website.
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
-    TODO: take notes of your client's response
+    Our three favorite competitors are DSP (the top business frat at Cornell), PSE (another top business frat at Cornell), and the Delta Upsilon Cornell Chapter website. All of these sites are very professional, and we hope that our website can obtain a similar feel to these sites.
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+- spent first five minutes introducing oursleves
+- frat
+- philanthropy
+- brotherhood
+- strong friendships
 
 
 ### Client Website (Milestone 1)
