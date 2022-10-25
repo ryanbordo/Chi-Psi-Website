@@ -72,7 +72,7 @@ Our client is the Chi Psi Cornell chapter. This client meets teh client rules be
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+Our client wants a website that will represent Chi Psi in a positive and professional light that both entices new recruits and keeps alumni up to date on the fraternity's happenings. The purpose of the site is to provide information about the fraternity and its events. Our client specifically wants information about the fraternity as a whole and its brotherhood, specific information about recruitment, and information about alumni events to appear on the website. The client wants us to mimic the look and feel of a professional fraternity's website and include imagery of the Chi Psi brothers, house, and events and use Chi Psi's national colors to make the website unique to the Cornell chapter of Chi Psi.
 
 
 ### Client Goals (Milestone 1)
