@@ -17,16 +17,17 @@ Your team contract should probably include these elements. Feel free to remove o
     5. Don't slack off on your part.
 
 2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
-
-   1.
+   1. Be on time to meetings
+   2. Everyone put equal effort into your part
+   3. We will communicate frequently about the work we are doing
 
 3. By what means and how frequently will we meet or communicate?
 
-    TODO: discuss and document here
+   We can meet at least two days before each milestone. We can also text our group chat before we code to prevent merge conflicts.
 
 4. How will we communicate and work with our client?
 
-    TODO: discuss and document here
+   We will communicate with our client via email and we can do a phone call when we need more extensive information.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
