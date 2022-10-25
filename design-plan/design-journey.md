@@ -44,8 +44,7 @@ Our client is the Chi Psi Cornell chapter. This client meets teh client rules be
     We want visitors to learn more about the fraternity, learn about upcoming events, and learn about recruitment. Alumni can also learn about alumni events such as Homecoming.
 
 6. What are your goals for this site?
-
-  We hope to promote Chi Psi as a positive experience for students at Cornell by showing pictures from previous events. We also want alumni to be able to connect back to their brotherhood and see what is going on currently.
+    We hope to promote Chi Psi as a positive experience for students at Cornell by showing pictures from previous events. We also want alumni to be able to connect back to their brotherhood and see what is going on currently.
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
@@ -64,6 +63,16 @@ Our client is the Chi Psi Cornell chapter. This client meets teh client rules be
 - philanthropy
 - brotherhood
 - strong friendships
+- informed client that we are making a static website
+- financial scholarships and fellowships
+- no Cornell website, only national site
+- current site is outdated
+- audience: students interested in recruitment, alumni
+- goals for visitors: learn about frat, upcoming events, and recruitment
+- show positive aspects of Chi Psi by showing pictures from current events that were held
+- want alumni to see what is going on currently at Chi Psi
+- want website to include fraternity colors and have a professional feel
+- favorite competitors: business and social frats at Cornell with nice websites (ex. DU, DSP, and PSE)
 
 
 ### Client Website (Milestone 1)
