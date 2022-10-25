@@ -90,9 +90,9 @@ TODO: tell us about the website you intend to design and build
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
+- Infrom new recruits on important dates and events
+- Inform alumni on important dates and events
+- Showcase pictures of the fraternity and active brothers
 - ...
 
 
