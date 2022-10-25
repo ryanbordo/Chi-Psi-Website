@@ -51,11 +51,11 @@ Your team contract should probably include these elements. Feel free to remove o
 
 
 
-8.  What are our procedures for re-visiting this contract?
+8. What are our procedures for re-visiting this contract?
 
     When there is a conflict that we cannot resolve or someone violates the contract, we can either decide to uphold the contract, or take a vote to determine whether we should change the contract.
 
-9.  What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
+9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
 
     **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
 
