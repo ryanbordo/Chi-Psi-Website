@@ -111,7 +111,7 @@ We believe the scope of the website if just right because chi psi is a national 
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+We plan to complete all user interviews before Nov 14, which is our next meeting. We will analyze their goals right after the interview is done. After we have the data collected from the user interviews, we will assemble and create the site's content together as a team during our next meeting on Nov 14. Our next meeting will be two days before the deadline of milestone 2, so we assume there will be enought time for us to finish the work.
 
 
 ## Understanding Users (Milestone 2)
