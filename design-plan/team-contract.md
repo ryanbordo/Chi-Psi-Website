@@ -24,11 +24,11 @@ Your team contract should probably include these elements. Feel free to remove o
 
 3. By what means and how frequently will we meet or communicate?
 
-   We can meet at least two days before each milestone. We can also text our group chat before we code to prevent merge conflicts.
+   We can meet at least two days before each milestone, and add an additional meeting closer to the deadline if needed. We can also text our group chat before we code to prevent merge conflicts.
 
 4. How will we communicate and work with our client?
 
-   We will communicate with our client via email and we can do a phone call when we need more extensive information
+   We will communicate with our client via email and we can do a phone call when we need more extensive information.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
 
@@ -49,8 +49,6 @@ Your team contract should probably include these elements. Feel free to remove o
 
     We can do a group vote if there is a disagreeement.
 
-
-
 8. What are our procedures for re-visiting this contract?
 
     When there is a conflict that we cannot resolve or someone violates the contract, we can either decide to uphold the contract, or take a vote to determine whether we should change the contract.
@@ -61,7 +59,7 @@ Your team contract should probably include these elements. Feel free to remove o
 
     We will consider grabbing coffee or ice cream after we complete our project.
 
-10. Everyone should be courteous and respectful to each other and embrace all ideas
+10. Everyone should be courteous and respectful to each other and embrace all ideas to create a culture of collaboration.
 
 ## Using your Contract
 

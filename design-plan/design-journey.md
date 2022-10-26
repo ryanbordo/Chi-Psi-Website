@@ -17,7 +17,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-Our client is the Chi Psi Cornell chapter. This client meets teh client rules because it is a campus organization.
+Our client is the Chi Psi Cornell chapter. Chi Psi is a social fraternity in the interfraternity council. This client meets the client rules because it is a campus organization that needs a static website.
 
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
@@ -25,7 +25,7 @@ Our client is the Chi Psi Cornell chapter. This client meets teh client rules be
 
 1. Describe your organization and its purpose.
 
-    Chi Psi is a fraternity whose purpose is philanthropy and brotherhood. It is focused on developing young men socially, morally, and intillectually.
+    Chi Psi is a fraternity whose purpose is philanthropy and brotherhood. It is focused on developing young men socially, morally, and intellectually.
 
 2. What makes your organization and its services special or unique?
 
@@ -48,7 +48,7 @@ Our client is the Chi Psi Cornell chapter. This client meets teh client rules be
 
 7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    We want to highlight Chi Psi's colors (purple and gold) and create a professional feel that is professional and in line with the national website.
+    We want to highlight Chi Psi's colors (purple and gold) and create a professional feel that is in line with the national website.
 
 8. What are your three favorite competitors or similar organizations' websites? Why?
 
@@ -92,7 +92,7 @@ Our client wants a website that will represent Chi Psi in a positive and profess
 - Infrom new recruits on important dates and events
 - Inform alumni on important dates and events
 - Showcase pictures of the fraternity and active brothers
-- ...
+- Provide general information about the chapter
 
 
 ### Client Website Scope (Milestone 1)
@@ -101,7 +101,7 @@ Our client wants a website that will represent Chi Psi in a positive and profess
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-We believe the scope of the website if just right because chi psi is a national fraternity, but we are not creating content for nationals, just the cornell chapter. More specifically, we will create webpages for recruitment, alumni of the cornell chapter, philantropy, and the showcase imeragy and text from the cornell chapter. This is just the right size because it is only about the cornell chapter and the main events and information that pertain to the chapter.
+We believe the scope of the website is just right because Chi Psi is a national fraternity, but we are not creating content for nationals, just the Cornell chapter. More specifically, we will likely create webpages for recruitment, alumni of the cornell chapter, events, and philantropy (TBD after card sorting our content), and showcase imagery and text from the Cornell chapter. This is just the right size because it is only about the Cornell chapter and the main events and information that pertain to the chapter.
 
 
 ## Plan/Schedule (Milestone 1)
@@ -111,7 +111,7 @@ We believe the scope of the website if just right because chi psi is a national 
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-We plan to complete all user interviews before Nov 14, which is our next meeting. We will analyze their goals right after the interview is done. After we have the data collected from the user interviews, we will assemble and create the site's content together as a team during our next meeting on Nov 14. Our next meeting will be two days before the deadline of milestone 2, so we assume there will be enought time for us to finish the work.
+We plan to complete all user interviews before Nov 14, which is our next meeting. In the time period before our next meeting, we will ask the client to send more details about the content they want us to include, as well as specific text and photos to use. We will analyze user goals right after the interviews are done. After we have the data collected from the user interviews, we will finalize the site's content together as a team during our next meeting on Nov 14. Our next meeting will be two days before the deadline of milestone 2, so we assume there will be enough time for us to finish the work. We will be in communication until then, so that we can continue to collaborate and work on the project before our meeting. For the final milestone, we will aim to have our user testing complete by the Monday before the project is due so that we can quickly revise the website at our final team meeting.
 
 
 ## Understanding Users (Milestone 2)
