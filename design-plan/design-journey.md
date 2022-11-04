@@ -218,44 +218,44 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://www.dspcornell.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow screenshot of DSP website](dsp-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Wide screenshot of DSP website](dsp-wide.png)
 
-2. <TODO: website url>
+2. <https://www.cornellpse.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow screenshot of PSE website](pse-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Wide screenshot of PSE website](pse-wide.png)
 
-3. <TODO: website url>
+3. <https://cornelldu.org/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Narrow screenshot of DU website](du-narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Wide screenshot of DU website](du-wide.png)
 
 
 ### Example Website 1 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+The DSP website was one of the inspiration websites provided to us by the client; DSP is a well known business fraternity at Cornell. Their website is not responsive and is designed for wide screens only. They utilize a navigation bar across the top of the screen that features their name, logo, and page names, which looks sleek and professional. I really like the large banner on the homepage that provides options for potential new members: a register for rush button and a request a coffee chat button. I think this is a design pattern that we could take inspiration from for our website. I also really like the image carousel on their homepage, and I think that either this or a carousel could be a great use of interactivity for the homepage. They also utilized their fraternity colors of purple and gold (which are the same colors that we will be working with) in a really elegant way, and the dark purple banners featured throughout the website look great. Overall, although this site is not responsive, it has a beautiful visual design and features effective interactivity including an image carousel and buttons that lead to relevant forms and information for potential members.
 
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+The PSE website is the second website provided to us by our client as inspiration, and is another business fraternity at Cornell. Again, their site is not responsive and was designed for wide screens. Their site utilizes a navigation bar across the top of the screen, which is a common design pattern. They use an image of Cornell with text over it as their title banner with a large "learn more" button that directs users to a really cool interactive about page. This about page has a grid of 6 photos, each of which represent a different aspect of the fraternity i.e. brotherhood, philanthropy, etc. The photos are highlighted and text is revealed when you hover over them. Clicking on one of the photos leads you down to the part of the page that talks about that category with a smooth animation. This is a very attractive and sleek way to design an "About" page with many categories and could serve as inspiration to us when planning our website. Additionally, each page has a footer with links to recruitment and contact information, which is both a common design pattern and would lend functionality to our users. Content wise, I like how their homepage has a letter from the president, and this is something we could try to obtain from Chi Psi.
 
 
 ### Example Website 3 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+The DU website was the third that was suggested to us from the client, and is responsively designed. This website is a bit more complicated and has more content. They utilize a menu across the top of the screen with dropdowns that provide more options, which becomes a hamburger menu on narrow screens. This is a very common design pattern and an effective use of interactivity that we can draw from. Another cool interactive feature they use is a carousel of news stories across the bottom of the homepage, which effectively features updates that alumni would enjoy. Since our client wants us to feature information for alumni, this might be something for us to consider. They also utilize an image carousel at the top of the homepage, similar to DSP. Another interactive element is a form on the homepage that prompts people to sign up for their mailling list. We could include a form on our page for potential new members interested in recruitment. Visually, I think this website looks a bit outdated and the blue and yellow colors are a big loud, but the site has great functionality and is interesting to look at. s
 
 
 ## Content Planning (Milestone 2)
