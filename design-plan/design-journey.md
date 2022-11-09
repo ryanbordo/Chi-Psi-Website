@@ -137,9 +137,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 5. Where do you usually look to find information about Cornell greek life and greek events?
 
-...
-
-n. What haven't I asked you today that you think would be valuable for me to know?
+6. What haven't I asked you today that you think would be valuable for me to know?
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
@@ -152,10 +150,25 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+   - Junior at Cornell studying Computer Science in Arts and Sciences who is in a social frat.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+    - Yes, the general vibes of each frat and the stereotypes but not much more than that.
+
+3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+   - Yes. Looking for events that were happening. Word of mouth, which was way more popular for finding events than any other method.
+
+4. What information would you need to know about a fraternity before deciding to join?
+    - Info about the current members, what they and the frat do, what kind of people they are. All things that he thinks are probably hard to get on a website.
+
+5. Where do you usually look to find information about Cornell greek life and greek events?
+    - Directly talking to people in frats. Information usually isnt posted publicly for events worth attending, so he prefers just contact friends and ask them for information. Highly prefers word-of-mount
+
+6. What haven't I asked you today that you think would be valuable for me to know?
+    - Believes mostly just that its hard to get a grasp on frat information from a website and that a lot of greek events are vibe/personality based and its hard to quantify those and put it into website content.
+
+**After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
 
 **Interviewee 2:**
