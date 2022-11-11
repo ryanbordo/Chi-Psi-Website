@@ -189,38 +189,58 @@ TODO: take notes inline with questions
 
 TODO: add additional interviewees as needed
 
+**Interviewee 4:**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+TODO: add additional interviewees as needed
+
+**Interviewee 5**
+
+TODO: tell us a bit about your participant
+
+TODO: copy interview questions
+TODO: take notes inline with questions
+
+
+TODO: add additional interviewees as needed
+
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: Find events related to the frat
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - Create a calendar for events
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - People interested in learning more about frats and their events have a hard time finding events online. By listing them online, more people will be able to learn about the frat and get in touch with brothers and visit the house.
 
-Goal 2: TODO: brief title
+Goal 2: Get more aquainted with the brothers
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - Display many pictures of brothers and quotes from them.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - By showcasing the brothers and their personalities, people who are interesting in learning more about the frat and the brothers to get a better feel for the frat's environment.
 
-Goal 3: TODO: brief title
+Goal 3: Learn about the values and social efforts of the frat
 
-TODO: design ideas and rationale
-
-
-TODO: add as many goals as needed
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Display the philantropic efforts of the frat and their main values which direct the frats.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Students who are interested in joining the frat are incredibly interested about learning more about the motivations behind the frat's actions. These main actions are driven by their goals and values, including charitable efforts.
 
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+Students at Cornell that are interested in joining Greek life. All of these students have the same goal with regards to visiting the website. These goals revolve around deciding which fraternity to join and answering uniform questions to make the decision for the students. We are providing the website with answers to these expected questions by addressing the audience goals we have found.
 
 
 ## Website Design Exploration (Milestone 2)
