@@ -378,7 +378,11 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+![First homepage sketch](home-sketch1.jpg)
+![Second homepage sketch](home-sketch2.jpg)
+![Third homepage sketch](home-sketch3.jpg)
+![Fourth homepage sketch](home-sketch4.jpg)
+![Values sketch](values-sketch1.jpg)
 
 
 ### Final Design (Milestone 2)
