@@ -235,6 +235,13 @@ Goal 3: Learn about the values and social efforts of the frat
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - Students who are interested in joining the frat are incredibly interested about learning more about the motivations behind the frat's actions. These main actions are driven by their goals and values, including charitable efforts.
 
+Goal 4: Learn about the rush and recruitment process of the frat
+
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Create a page dedicated to explaining the recruitment process and how students can decide if it is right for them.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Once students are interested in joining the frat, or are still on the fence, they likely want to learn more about what goes into the rush and recruitment process. By providing users with this page, it will be transparent what goes into the process and aid students in making an educated decision.
+
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
