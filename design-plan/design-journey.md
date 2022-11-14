@@ -233,23 +233,23 @@ Participate by attending regular social events
 
 Junior in a frat at Cornell.
 
-2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+1. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
 
 He was interested in greek life before coming to Cornell, which lead him to join one upon arriving at campus.
 
-3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+1. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
 
 Before rushing he sought out information online to get the know the frats a little better before joining.
 
-4. What information would you need to know about a fraternity before deciding to join?
+1. What information would you need to know about a fraternity before deciding to join?
 
 He wanted to know about the philanthropy and what types of events the frat would be having.
 
-5. Where do you usually look to find information about Cornell greek life and greek events?
+1. Where do you usually look to find information about Cornell greek life and greek events?
 
 He looks online or talks to his current brothers in the frat.
 
-6. What haven't I asked you today that you think would be valuable for me to know?
+1. What haven't I asked you today that you think would be valuable for me to know?
 
 He felt like he found a really strong friend group by joining the frat.
 
@@ -259,23 +259,23 @@ He felt like he found a really strong friend group by joining the frat.
 
 Sophomore in a fraternity
 
-2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+1. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
 
 This fraternity brother is this recruitment chair of a fraternity on campus and has a good understanding of greek life. He says there are alot of different organizations that do a broad range of stuff, such as outdoor activities, business, and social focus.
 
-3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+1. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
 
 They answered yes. He  googled the names of fraternities and went to their websites. Also found information about cornell fraternities from the cornell IFC website.
 
-4. What information would you need to know about a fraternity before deciding to join?
+1. What information would you need to know about a fraternity before deciding to join?
 
 He would need to know who the brothers are, what they do, and what they value.
 
-5. Where do you usually look to find information about Cornell greek life and greek events?
+1. Where do you usually look to find information about Cornell greek life and greek events?
 
 Cornell IFC emails and word of mouth
 
-6. What haven't I asked you today that you think would be valuable for me to know?
+1. What haven't I asked you today that you think would be valuable for me to know?
 
 n/a
 
