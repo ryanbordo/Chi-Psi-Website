@@ -267,7 +267,7 @@ This fraternity brother is this recruitment chair of a fraternity on campus and 
 
 They answered yes. He  googled the names of fraternities and went to their websites. Also found information about cornell fraternities from the cornell IFC website.
 
-1. What information would you need to know about a fraternity before deciding to join?
+4. What information would you need to know about a fraternity before deciding to join?
 
 He would need to know who the brothers are, what they do, and what they value.
 
