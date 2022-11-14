@@ -255,13 +255,31 @@ He felt like he found a really strong friend group by joining the frat.
 
 **Interviewee 5**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+Sophomore in a fraternity
 
+2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
 
-TODO: add additional interviewees as needed
+This fraternity brother is this recruitment chair of a fraternity on campus and has a good understanding of greek life. He says there are alot of different organizations that do a broad range of stuff, such as outdoor activities, business, and social focus.
+
+3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+
+They answered yes. He  googled the names of fraternities and went to their websites. Also found information about cornell fraternities from the cornell IFC website.
+
+1. What information would you need to know about a fraternity before deciding to join?
+
+He would need to know who the brothers are, what they do, and what they value.
+
+5. Where do you usually look to find information about Cornell greek life and greek events?
+
+Cornell IFC emails and word of mouth
+
+6. What haven't I asked you today that you think would be valuable for me to know?
+
+n/a
+
+**After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
 
 ### Goals (Milestone 2)
