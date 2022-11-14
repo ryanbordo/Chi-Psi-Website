@@ -513,7 +513,7 @@ We were inspired by our example websites for this values page. We will use divs 
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+Our design is appropriate for our audience because it fulfills all their goals that we identified earlier. The audience can find events related to the frat if they go to the event page where we list all upcoming events.The can get more aquainted with the brothers if they go to the brothers page where we have photos of all the current brothers, as well as a quote from each of them to help the audience better know what their persoanlity might be. We also addressed their goal of learning about the values and social efforts of the frat by offering a values page where we listed Chi Psi's mission statements and values, as well as photos of some featured events that illustrates them. Finally, the audience can learn about the rush and recuitment process of the frat if they go to the recruitment page where we offered them some general information about the recruitment, such as events and timeline, as well as some FAQs. Some common design patterns that we employed to increase the familiarity of the site include the navigation bar on the top of each page for wide screens, a hamburger menu to help narrow screen users navigate, image carousels, slide shows, and galleries to assist users to view images. We also make exit buttons to look like a cross so that users know how to exit certain interactivities.
 
 
 ## Interactivity Rationale (Milestone 2)
