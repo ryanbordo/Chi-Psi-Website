@@ -326,7 +326,7 @@ The PSE website is the second website provided to us by our client as inspiratio
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-The DU website was the third that was suggested to us from the client, and is responsively designed. This website is a bit more complicated and has more content. They utilize a menu across the top of the screen with dropdowns that provide more options, which becomes a hamburger menu on narrow screens. This is a very common design pattern and an effective use of interactivity that we can draw from. Another cool interactive feature they use is a carousel of news stories across the bottom of the homepage, which effectively features updates that alumni would enjoy. Since our client wants us to feature information for alumni, this might be something for us to consider. They also utilize an image carousel at the top of the homepage, similar to DSP. Another interactive element is a form on the homepage that prompts people to sign up for their mailling list. We could include a form on our page for potential new members interested in recruitment. Visually, I think this website looks a bit outdated and the blue and yellow colors are a big loud, but the site has great functionality and is interesting to look at. s
+The DU website was the third that was suggested to us from the client, and is responsively designed. This website is a bit more complicated and has more content. They utilize a menu across the top of the screen with dropdowns that provide more options, which becomes a hamburger menu on narrow screens. This is a very common design pattern and an effective use of interactivity that we can draw from. Another cool interactive feature they use is a carousel of news stories across the bottom of the homepage, which effectively features updates that alumni would enjoy. Since our client wants us to feature information for alumni, this might be something for us to consider. They also utilize an image carousel at the top of the homepage, similar to DSP. Another interactive element is a form on the homepage that prompts people to sign up for their mailling list. We could include a form on our page for potential new members interested in recruitment. Visually, I think this website looks a bit outdated and the blue and yellow colors are a big loud, but the site has great functionality and is interesting to look at.
 
 
 ## Content Planning (Milestone 2)
@@ -337,16 +337,22 @@ Plan your site's content.
 > List **all** the content you plan to include your website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- General photos of Chi Psi house and brothers
+- General description of the fraternity and its history for homepage
+- Fraternity mission and values (can be copied with credit from Chi Psi national site)
+- Description of chapter philanthropy
+- Photos of "no shave november" for chapter philanthropy
+- List/description of upcoming events
+- Photos of current brothers
+- quotes from current brothers
+- recruitment information, events, and timeline
+
 
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+Our content is directly designed to address our audience's goals of learning more about Chi Psi and its members. The audience's first goal is to learn about events related to the frat, which we will achieve by providing a list of upcoming events and details about them. The audience's second goal is to become more acquainted with the brothers so that they can asses the "vibe" of the frat. We will achieve this by including photos of brothers and gathering quotes from the brothers that reflect their personalities and what they like about Chi Psi. The third goal was to learn about the values and social efforts of the frat, which we will address by including descriptions of the fraternity's national values and Cornell-specific philanthropy efforts, along with photos of their philanthropy. Finally, the last goal is to learn about the recruitment process, which we will address by including ample information about how the recruitment process works, how to sign up, and when events start. Overall, the content on our site is targeted to appeal to an audience of potential new members so that they can learn about the fraternity and gain practical insight needed for them to decide to join.
 
 
 ## Information Architecture (Milestone 2)
