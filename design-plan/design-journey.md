@@ -197,27 +197,33 @@ My interviewee is a freshman in the College of Arts and Sciences studying biolog
 **Interviewee 3:**
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
+
 - Joy, junior at Cornell Brooks School of Public Policy, policy and management major
 
-2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+1. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+
 - Yes, community that bond you with people who share similar professional goals or interests
 Participate by attending regular social events
 
-3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+1. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+
 - Yes
 - Culture of the frad, current eboard so that I can connect, recruitment timeline (what the rush period is), mostly on instagram, don’t think websites are useful
 
-4. What information would you need to know about a fraternity before deciding to join?
+1. What information would you need to know about a fraternity before deciding to join?
+
 - Day to day life because I don’t like toxic frad culture
 - Personal growth and oppourtunity
 - Current members, need to be diverse and inclusive
 
-5. Where do you usually look to find information about Cornell greek life and greek events?
+1. Where do you usually look to find information about Cornell greek life and greek events?
+
 - Instagram, more accessible because I can use it on my phone
 - Instagram is better because I can find all info on one page
 - More likely to update Instagram than the website probably it is less convenient to make changes to the website
 
-6. What haven't I asked you today that you think would be valuable for me to know?
+1. What haven't I asked you today that you think would be valuable for me to know?
+
 - No.
 
 **Interviewee 4:**
