@@ -496,11 +496,17 @@ We were inspired by our example websites for this values page. We will use divs 
 **Narrow (Mobile) Design:**
 
 ![Narrow about sketch, before clicking hamburger](about-final-narrow-1.jpeg)
+This is a sketch of what our narrow screen website looks like before the hamburger menu is clicked.
 ![Narrow about sketch, after clicking hamburger](about-final-narrow-2.jpeg)
+When a user clicks on the hamburger menu, it drops down and covers the content behind it. It also makes the content a bit darker in order to help the user focus their attention strictly on the hamburger menu.
 ![Narrow brothers sketch, before clicking modal](brothers-final-narrow-1.jpeg)
+This is a sketch of what our narrow screen website looks like before a picture of one of the brothers is clicked on.
 ![Narrow brothers sketch, after clicking modal](brothers-final-narrow-2.jpeg)
+After a picture of a borther is clicied, a quote of theirs appears and covers the other images in the background. Similar to the hamburger menu, when the quote appears, the background is darkened to help the user focus on the quote. This design makes good use of the space, as every picture is paired with important information that comes directly from the brothers.
 ![Narrow events sketch](events-final-narrow.jpeg)
+The events page covers both alumni and brotherhood events, which is important for students interested in the fraternity to know about. We have a good mixture of pictures and text in order to keep the user engaged despite the lack of interactivity.
 ![Narrow values sketch](values-final-narrow.jpeg)
+Our values page contains our carousel, where users can look through images of the fraternity brothers participating in their philanthropy.
 
 
 **Wide (Wide) Design:**
