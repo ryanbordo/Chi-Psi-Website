@@ -556,7 +556,6 @@ if #brotherpic is clicked again
     hide #quote
 
 
-
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
