@@ -233,23 +233,23 @@ Participate by attending regular social events
 
 Junior in a frat at Cornell.
 
-2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+1. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
 
 He was interested in greek life before coming to Cornell, which lead him to join one upon arriving at campus.
 
-3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+1. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
 
 Before rushing he sought out information online to get the know the frats a little better before joining.
 
-4. What information would you need to know about a fraternity before deciding to join?
+1. What information would you need to know about a fraternity before deciding to join?
 
 He wanted to know about the philanthropy and what types of events the frat would be having.
 
-5. Where do you usually look to find information about Cornell greek life and greek events?
+1. Where do you usually look to find information about Cornell greek life and greek events?
 
 He looks online or talks to his current brothers in the frat.
 
-6. What haven't I asked you today that you think would be valuable for me to know?
+1. What haven't I asked you today that you think would be valuable for me to know?
 
 He felt like he found a really strong friend group by joining the frat.
 
@@ -259,23 +259,23 @@ He felt like he found a really strong friend group by joining the frat.
 
 Sophomore in a fraternity
 
-2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+1. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
 
 This fraternity brother is this recruitment chair of a fraternity on campus and has a good understanding of greek life. He says there are alot of different organizations that do a broad range of stuff, such as outdoor activities, business, and social focus.
 
-3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+1. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
 
 They answered yes. He  googled the names of fraternities and went to their websites. Also found information about cornell fraternities from the cornell IFC website.
 
-4. What information would you need to know about a fraternity before deciding to join?
+1. What information would you need to know about a fraternity before deciding to join?
 
 He would need to know who the brothers are, what they do, and what they value.
 
-5. Where do you usually look to find information about Cornell greek life and greek events?
+1. Where do you usually look to find information about Cornell greek life and greek events?
 
 Cornell IFC emails and word of mouth
 
-6. What haven't I asked you today that you think would be valuable for me to know?
+1. What haven't I asked you today that you think would be valuable for me to know?
 
 n/a
 
@@ -403,17 +403,22 @@ Our content is directly designed to address our audience's goals of learning mor
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+![card-sort-1](card-sort-iteration-1.jpeg)
+Above is the first iteration of our card sorting. On the homepage, we have photos of the Chi Psi house and borthers, and a general descriptions of Chi Psi and its history. On the event page we only have a list of upcoming events because this is the only thing that users are expecting to see when they click on the event page. On the values page we have included a description of Chi Psi's values and missions, as well as a description of chapter philantrophy and photos of "No Shave November" because they are some featured activities that shows how much Chi Psi values philantrophy. On the brothers page we have photos of current brothers can some quotes from them to give our audience a general sense of who the brothers are and what their personality is. On the recruitment page we have the general information on Chi Psi's recruitment, such as events and timeline, as well as a section for recruitment FAQs.
+
+![card-sort-2](card-sort-iteration-2.jpeg)
+Above is the second iteration of our card sorting. The difference between the second iteration and the first one is that we moved the quotes from current brothers to the home page. We also moved the description of chapter philantrophy and photos of "No Shave November" to the events page because they can also be considered as one of the events.
+
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+We decidied to use the first iteration.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+Although movinng the quotes from current brothers to the homepage can enable the audience to see the quotes as soon as they visit the website which helps them better understand Chi Psi and its vibe faster, we think it is better to put the photos of brothers and their quotes together so that the audience knows which quote is from which brother and this better helps the audience to accomplish their goal of getting more aquainted with the brothers. We also decided not to move the description of chapter philantriphy and the photos of "No Shave November" to the event page because we think they are great examples of Chi Psi's mission statement and its values, so it would be better to put them on the values page.
 
 
 ### Navigation (Milestone 2)
