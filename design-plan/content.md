@@ -21,3 +21,13 @@ What is the timeline on the Spring 2023 recruitment week?
 What can I expect during new memeber education?
 
 - Chi Psi Cornell is non-hazing, non-pledging fraternity at Cornell. During the short period of time of new memeber education, potential new memebers will learn the history and values that are essential to becoming a brother. For example, you will learn the story of why all Chi Psi houses around the country are known as "The Lodge".
+
+**Events**
+
+## Brotherhood Events
+
+- At Cornell Chi Psi,there is a strong emphasis on our brotherhood events. Every week or two there are brotherhood events that foster bonding and bring out fraternity closer. Some of these events include a scavenger hunt across Cornell's campus, movie nights in the Great rooms, basketball games on our court, and other fun activities. During the winter time, we set up a ski terrain park in the backyard for all brothers to show off their skills.
+
+## Alumni Events
+
+- Every year for homecoming, we welcome back our alumni brothers with events and activies that fill homecoming weekend. Twice per semester, we host one of our alumni's to speak about their career and offer advise to our active brothers. These events are extremely beneficial for the profesional development of our active brothers. As well as this, alumni's often come to the Lodge when touring the university with their children and family.
