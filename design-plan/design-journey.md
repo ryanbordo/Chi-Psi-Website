@@ -496,22 +496,34 @@ We were inspired by our example websites for this values page. We will use divs 
 **Narrow (Mobile) Design:**
 
 ![Narrow about sketch, before clicking hamburger](about-final-narrow-1.jpeg)
+This is a sketch of what our narrow screen website looks like before the hamburger menu is clicked.
 ![Narrow about sketch, after clicking hamburger](about-final-narrow-2.jpeg)
+When a user clicks on the hamburger menu, it drops down and covers the content behind it. It also makes the content a bit darker in order to help the user focus their attention strictly on the hamburger menu.
 ![Narrow brothers sketch, before clicking modal](brothers-final-narrow-1.jpeg)
+This is a sketch of what our narrow screen website looks like before a picture of one of the brothers is clicked on.
 ![Narrow brothers sketch, after clicking modal](brothers-final-narrow-2.jpeg)
+After a picture of a borther is clicied, a quote of theirs appears and covers the other images in the background. Similar to the hamburger menu, when the quote appears, the background is darkened to help the user focus on the quote. This design makes good use of the space, as every picture is paired with important information that comes directly from the brothers.
 ![Narrow events sketch](events-final-narrow.jpeg)
+The events page covers both alumni and brotherhood events, which is important for students interested in the fraternity to know about. We have a good mixture of pictures and text in order to keep the user engaged despite the lack of interactivity.
 ![Narrow values sketch](values-final-narrow.jpeg)
+Our values page contains our carousel, where users can look through images of the fraternity brothers participating in their philanthropy.
 ![Narrow recruitment sketch](recruitment-final-narrow.jpeg)
+
 
 
 **Wide (Wide) Design:**
 
 ![Wide about sketch](about-final-wide.jpeg)
 ![Wide brothers sketch, before clicking modal](brothers-final-wide-1.jpeg)
+we liked this layout because it show cases all of the brother's faces in a neat way. It is also similar to what the composite looks like, which is a common thing that must fraternities have. The interactivity is when you click on the picture it will pop up a blub about the brother.
 ![Wide brothers sketch, after clicking modal](brothers-final-wide-2.jpeg)
+When the image is clicked, a modal will pop up with a description of the brother and maybe a funny quote from them. We thought this was a good use of interactivity because you can learn more about brothers of the chapter.
 ![Wide events sketch](events-final-wide.jpeg)
+we liked the split screen layout for the events page because it showcases the two events that chi psi at cornell does, excluding recruitment which is on its own page. We chose to keep it on a seperate page becuase there events are limited to brothers only. There will be pictures of some examples of the events as well.
 ![Wide values sketch](values-final-wide.jpeg)
+we liked this layout because it show cases the mission and values first and then it will show the current philthropy that chi psi is doing. The interactivity of the page is a carasel. We thought this was great because we have many different pictures of the brothers raising money for their chairty through growing their mustaches and showcasing it on their instagram.
 ![Wide recruitment sketch](recruitment-final-wide.jpeg)
+
 
 
 ### Design Rationale (Milestone 2)
