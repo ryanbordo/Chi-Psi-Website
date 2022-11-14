@@ -501,6 +501,7 @@ We were inspired by our example websites for this values page. We will use divs 
 ![Narrow brothers sketch, after clicking modal](brothers-final-narrow-2.jpeg)
 ![Narrow events sketch](events-final-narrow.jpeg)
 ![Narrow values sketch](values-final-narrow.jpeg)
+![Narrow recruitment sketch](recruitment-final-narrow.jpeg)
 
 
 **Wide (Wide) Design:**
@@ -510,6 +511,7 @@ We were inspired by our example websites for this values page. We will use divs 
 ![Wide brothers sketch, after clicking modal](brothers-final-wide-2.jpeg)
 ![Wide events sketch](events-final-wide.jpeg)
 ![Wide values sketch](values-final-wide.jpeg)
+![Wide recruitment sketch](recruitment-final-wide.jpeg)
 
 
 ### Design Rationale (Milestone 2)
