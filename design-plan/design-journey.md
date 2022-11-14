@@ -535,9 +535,16 @@ TODO: interactivity plan
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+Add more pictures. Text content is good, pages organization is good.
 
-TODO: meeting minutes
+Meeting minutes:
+greeted them
+talked about thanksgiving plans
+showed the content plan and lay out for each of the pages
+liked the pages and the way the content was organized
+emphasized the importance of pictures
+said to reach out the president of chi psi for alumni pictures and offered tour the house for pictures
+
 
 
 ## User Testing (Final Submission)
