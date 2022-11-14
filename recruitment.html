@@ -10,12 +10,23 @@
 </head>
 <body>
     <header>
+        <div class="title">
+            <picture>
+                <img src="images/Chi_Psi_Seal.png" alt="">
+            </picture>
+            <div class="title-text">
+            <h1 class="greek">χ ψ</h1>
+            <h1>|</h1>
+            <h1>Cornell University</h1>
+            </div>
+            <div class="title-space">
+            </div>
+        </div>
         <button id = "hamburger" aria-label = "Toggle Navigation">
             <!--Image source: https://uxwing.com/hamburger-menu-icon/-->
             <img src = "images/hamburger-menu-icon.svg" alt = "" id = "ham-image">
         </button>
-        <h1>Recruitment</h1>
-        <nav class="menu">
+        <nav id="widescreen-nav">
             <ul>
                 <li><a href="index.html">About Us</a></li>
                 <li><a href="values.html">Values</a></li>
@@ -37,6 +48,9 @@
         </div>
     </header>
     <div id = "ham-overlay" class = "hidden"></div>
+    <div class="main-content">
+        <h1>Recruitment</h1>
+    </div>
 
     <script src = "scripts/jquery-3.6.1.js"></script>
     <script src = "scripts/hamburger-menu.js"></script>
