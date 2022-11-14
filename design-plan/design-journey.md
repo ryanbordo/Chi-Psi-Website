@@ -437,7 +437,8 @@ Document your site's layout.
 - Hamburger menu: This will appear when the user views the site in mobile form, which will save space by hiding the menu, allowing the user to see more content.
 - Gallery: This will be on the home/about page and show the audience pictures of the frat house and the brothers to show the audience what this organization looks like.
 - Carousel: This will be a carousel of the brothers participating in their philanthropy. This will save space, but still show the audience a lot of content to get them more engaged with the site.
-- Modal: On the
+- Modal: On the brothers page, there will be a modal of pictures of the current brothers, and when you click on one of their pictures, a quote will appear. This is a fun way to get direct information about the frat, from the brothers themselves, to the audience.
+- Accordion: on the recruitment page, we will include a variety of FAQs. When the user clicks on one of the questions, an accordion will drop down with answers to these questions.
 
 
 ### Layout Exploration (Milestone 2)
