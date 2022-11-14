@@ -1,21 +1,74 @@
+html{
+    background-color: darkgreen;
+}
+.main-content{
+    background-color: violet;
+}
+.greek{
+    margin-top: 20px;
+}
+#widescreen-nav{
+    display: none;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 10px;
+}
+nav ul{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    justify-content: space-evenly;
+    height: 100%;
+}
+nav ul a{
+    background-color: yellow;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+nav ul li{
+    display: flex;
+}
 .title{
     display: flex;
     flex-direction: row;
+    width: 100%;
+    background-color:crimson;
 }
 .title h1{
-    margin: 20px;
+    font-size: 36px;
+    padding: 20px;
 }
 .title img{
-    width: 150px;
+    width: 120px;
     height: auto;
+    flex: 1;
+}
+.title-space{
+    width: 120px;
+    height: 120px;
+    right: 0;
+    flex: 1;
 }
 .title picture{
+    margin: 0px;
+    flex: 1;
+}
+.title-text{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
     margin-right: auto;
 }
 body{
     z-index: 0;
 }
-
 header{
     z-index: 2;
     display: flex;
@@ -50,7 +103,7 @@ header{
 }
 
 @media screen and (min-width: 600px) {
-    #hamburger{
+    #hamburger, #hamburger-menu{
         display: none;
     }
 
@@ -60,5 +113,15 @@ header{
 
     .carouselpic {
         width: 60%;
+    }
+    #widescreen-nav{
+        display: flex;
+    }
+    #widescreen-nav ul{
+        display: flex;
+        flex-direction: row;
+    }
+    nav ul a{
+        font-size: 26px;
     }
 }

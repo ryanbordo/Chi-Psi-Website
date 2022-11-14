@@ -513,9 +513,13 @@ Our values page contains our carousel, where users can look through images of th
 
 ![Wide about sketch](about-final-wide.jpeg)
 ![Wide brothers sketch, before clicking modal](brothers-final-wide-1.jpeg)
+we liked this layout because it show cases all of the brother's faces in a neat way. It is also similar to what the composite looks like, which is a common thing that must fraternities have. The interactivity is when you click on the picture it will pop up a blub about the brother.
 ![Wide brothers sketch, after clicking modal](brothers-final-wide-2.jpeg)
+When the image is clicked, a modal will pop up with a description of the brother and maybe a funny quote from them. We thought this was a good use of interactivity because you can learn more about brothers of the chapter.
 ![Wide events sketch](events-final-wide.jpeg)
+we liked the split screen layout for the events page because it showcases the two events that chi psi at cornell does, excluding recruitment which is on its own page. We chose to keep it on a seperate page becuase there events are limited to brothers only. There will be pictures of some examples of the events as well.
 ![Wide values sketch](values-final-wide.jpeg)
+we liked this layout because it show cases the mission and values first and then it will show the current philthropy that chi psi is doing. The interactivity of the page is a carasel. We thought this was great because we have many different pictures of the brothers raising money for their chairty through growing their mustaches and showcasing it on their instagram.
 
 
 ### Design Rationale (Milestone 2)
