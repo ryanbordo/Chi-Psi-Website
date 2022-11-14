@@ -446,11 +446,15 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 ![First homepage sketch](home-sketch1.jpg)
+For the first sketch, we used a thin navigation bar across the top with the organization's name, a large image banner with a button leading to important recruitment information, and a common design pattern of a main body and sidebar with additional information.
 ![Second homepage sketch](home-sketch2.jpg)
+For the second sketch, we changed the appearance of the header and navigation to include the organization's greek letters. We also experimented with including a carousel of photos instead of an image banner, which we think would look nice on the homepage of the website and match design expectations. We still use the design pattern of featuring a main section and a sidebar.
 ![Third homepage sketch](home-sketch3.jpg)
+For our third sketch, we switched our image carousel to a gallery with all of the images at the side, keeping everything else the same. However, we didn't like how the gallery ended up being asymmetrical.
 ![Fourth homepage sketch](home-sketch4.jpg)
+For our last homepage design, we centered the main image in the gallery and put thumbnails on either side of the image. Using a centered image on the homepage is more aligned with visual design principles and makes more sense for our page.
 ![Values sketch](values-sketch1.jpg)
-
+We were inspired by our example websites for this values page. We will use divs with different background colors to feature the fraternity's mission and values, then we will use an image carousel when featuring the chapter's philanthropy. This is a visually effective way of dividing the content up into different topics, and the carousel would be a fun way to click through the different mustache pictures.
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
