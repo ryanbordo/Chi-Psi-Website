@@ -458,7 +458,7 @@ Document your site's layout.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
 - Hamburger menu: This will appear when the user views the site in mobile form, which will save space by hiding the menu, allowing the user to see more content.
-- Gallery: This will be on the home/about page and show the audience pictures of the frat house and the brothers to show the audience what this organization looks like.
+- Slideshow: This will be on the home/about page and show the audience pictures of the frat house and the brothers to show the audience what this organization looks like.
 - Carousel: This will be a carousel of the brothers participating in their philanthropy. This will save space, but still show the audience a lot of content to get them more engaged with the site.
 - Modal: On the brothers page, there will be a modal of pictures of the current brothers, and when you click on one of their pictures, a quote will appear. This is a fun way to get direct information about the frat, from the brothers themselves, to the audience.
 - Accordion: on the recruitment page, we will include a variety of FAQs. When the user clicks on one of the questions, an accordion will drop down with answers to these questions.
@@ -513,7 +513,7 @@ We were inspired by our example websites for this values page. We will use divs 
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+Our design is appropriate for our audience because it fulfills all their goals that we identified earlier. The audience can find events related to the frat if they go to the event page where we list all upcoming events.The can get more aquainted with the brothers if they go to the brothers page where we have photos of all the current brothers, as well as a quote from each of them to help the audience better know what their persoanlity might be. We also addressed their goal of learning about the values and social efforts of the frat by offering a values page where we listed Chi Psi's mission statements and values, as well as photos of some featured events that illustrates them. Finally, the audience can learn about the rush and recuitment process of the frat if they go to the recruitment page where we offered them some general information about the recruitment, such as events and timeline, as well as some FAQs. Some common design patterns that we employed to increase the familiarity of the site include the navigation bar on the top of each page for wide screens, a hamburger menu to help narrow screen users navigate, image carousels, slide shows, and galleries to assist users to view images. We also make exit buttons to look like a cross so that users know how to exit certain interactivities.
 
 
 ## Interactivity Rationale (Milestone 2)
@@ -528,7 +528,32 @@ TODO: 1 paragraph
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+Accordion:
+when #FAQ clicked
+    show #answers
+if #FAQ clicked again
+    hide #answers
+
+Carousel:
+when #arrow is clicked
+    show next #mustachepic in carousel
+when #backarrow is clicked
+    show previous #mustachepic in carousel
+
+Slideshow:
+every 5 seconds rotate through the #homeimages
+
+Hamburger Menu:
+when #hamburger-menu clicked
+    show links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
+if #hamburger-menu clicked again
+    hide  show links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
+
+Modal:
+when #brotherpic is clicked
+    show #quote
+if #brotherpic is clicked again
+    hide #quote
 
 
 ## Client Feedback & Minutes (Milestone 2)
