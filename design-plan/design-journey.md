@@ -508,7 +508,7 @@ The events page covers both alumni and brotherhood events, which is important fo
 ![Narrow values sketch](values-final-narrow.jpeg)
 Our values page contains our carousel, where users can look through images of the fraternity brothers participating in their philanthropy.
 ![Narrow recruitment sketch](recruitment-final-narrow.jpeg)
-
+In the recruitment page, we feature an accordion to make better use of our space for the FAQ section. At the top of the page is a brief description of the recruitment process, followed by our FAQ accordion and finally some pictures of brothers.
 
 
 **Wide (Wide) Design:**
@@ -523,6 +523,7 @@ we liked the split screen layout for the events page because it showcases the tw
 ![Wide values sketch](values-final-wide.jpeg)
 we liked this layout because it show cases the mission and values first and then it will show the current philthropy that chi psi is doing. The interactivity of the page is a carasel. We thought this was great because we have many different pictures of the brothers raising money for their chairty through growing their mustaches and showcasing it on their instagram.
 ![Wide recruitment sketch](recruitment-final-wide.jpeg)
+For the wide version of the recruitment page, we put content into two columns so that the text does not become too wide that it is unreadable. On the left is our description and FAQ accordion, then we will add pictures to the right side. Seeing recruitment information side by side with fun photos of brothers should enable potential new members to see themselves joining Chi Psi.
 
 
 
