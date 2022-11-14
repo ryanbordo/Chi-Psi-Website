@@ -173,11 +173,25 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 **Interviewee 2:**
 
-TODO: tell us a bit about your participant
+My interviewee is a freshman in the College of Arts and Sciences studying biological sciences. He is thinking about joining a fraternity in the spring.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+    - He says he is a very sporty person and he likes playing and watching sports. He also likes going to social events, board games and music.
 
+1. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+    - He is unsure if he is interested in joining Greek Life at Cornell. Says he has considered it but he doesn't quite know what it entails yet and doesn't know a ton about the different frats.
+
+1. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+    - He has sought out information of fraternities at Cornell. He was curious about how they operate, what joining a frat means, what one would have to do to join a frat, and more. He usually finds this information from his upperclassmen friends.
+
+1. What information would you need to know about a fraternity before deciding to join?
+    - He would need to know exactly what it means to join a frat, the process of doing so and the best way of accomplishing this.
+
+1. Where do you usually look to find information about Cornell greek life and greek events?
+    - Since he is on the Cornell Club Baseball team, he usually asks the upperclassmen about their fraternities' events, and when and where they are in particular.
+
+1. What haven't I asked you today that you think would be valuable for me to know?
+    - He thinks it is important for us to include why someone would want to join a frat and the benefits of joining a frat.
 
 **Interviewee 3:**
 
