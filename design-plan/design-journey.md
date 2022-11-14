@@ -190,18 +190,35 @@ My interviewee is a freshman in the College of Arts and Sciences studying biolog
 1. Where do you usually look to find information about Cornell greek life and greek events?
     - Since he is on the Cornell Club Baseball team, he usually asks the upperclassmen about their fraternities' events, and when and where they are in particular.
 
+
 1. What haven't I asked you today that you think would be valuable for me to know?
     - He thinks it is important for us to include why someone would want to join a frat and the benefits of joining a frat.
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+- Joy, junior at Cornell Brooks School of Public Policy, policy and management major
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+2. Are you interested in Greek life at Cornell? If so, what do you know about the fraternities on campus?
+- Yes, community that bond you with people who share similar professional goals or interests
+Participate by attending regular social events
 
+3. Have you sought out information about a Cornell fraternity before? If so, what information were you looking to find? Did you find it?
+- Yes
+- Culture of the frad, current eboard so that I can connect, recruitment timeline (what the rush period is), mostly on instagram, don’t think websites are useful
 
-TODO: add additional interviewees as needed
+4. What information would you need to know about a fraternity before deciding to join?
+- Day to day life because I don’t like toxic frad culture
+- Personal growth and oppourtunity
+- Current members, need to be diverse and inclusive
+
+5. Where do you usually look to find information about Cornell greek life and greek events?
+- Instagram, more accessible because I can use it on my phone
+- Instagram is better because I can find all info on one page
+- More likely to update Instagram than the website probably it is less convenient to make changes to the website
+
+6. What haven't I asked you today that you think would be valuable for me to know?
+- No.
 
 **Interviewee 4:**
 
@@ -368,7 +385,14 @@ TODO: explain why the pages name make sense to the audience.
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+Theme 1: The first visual theme we think of is to use purple and gold because they are the theme color of Chi Psi fraternaty. Using purple and gold not only makes our website consistent with the national Chi Psi website, it's also a great way to remind the audience what the theme color of Chi Psi is, since one of their goals is to learn more about Chi Psi. Purple and gold also create great contrast, which can highlight the information we want to present and the audience can notice important information more quickly.
+
+Theme 2: The second theme we think of is to use black and white. Black and white are even better at creating contrast, so they can also achieve what purple and gold can do in terms of presenting important information to the audience. Also, black and white can make our website look more professional, since our client want the website to have a professional feel.
+
+Theme 3: The third theme we think of is to use purple and gold for the logo, the navigation bar, and some of the headings, and use black and white for the body of the website. This is a combination of theme 1 and 2, so it both highlights the theme color of Chi Psi and effectively presents the important information to our audience. One additional benefit of making the logo, the navigation bar, and some of the headings the theme color of Chi Psi is that they typically appear on the top of a page, which means they are usually the first thing that the audience would see. Making them the theme color of Chi Psi could remind the audience the theme color of Chi Psi most effectively, while keeping the important content in the body of the website obvious to the audience because they are in black and white.
+
+Final Theme: We decided to use theme 3 as our final theme because of the reasons that we have stated above. It is a combination of theme 1 and theme 2 and can achieve both what theme 1 and theme 2 could do.
+
 
 
 ## Design (Milestone 2)
