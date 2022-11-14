@@ -495,12 +495,17 @@ We were inspired by our example websites for this values page. We will use divs 
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
+![Narrow about sketch, before clicking hamburger](about-final-narrow-1.jpeg)
+![Narrow about sketch, after clicking hamburger](about-final-narrow-2.jpeg)
+![Narrow brothers sketch, before clicking modal](brothers-final-narrow-1.jpeg)
+![Narrow brothers sketch, after clicking modal](brothers-final-narrow-2.jpeg)
 
 
 **Wide (Wide) Design:**
 
-TODO: wide sketches and explanation
+![Wide about sketch](about-final-wide.jpeg)
+![Wide brothers sketch, before clicking modal](brothers-final-wide-1.jpeg)
+![Wide brothers sketch, after clicking modal](brothers-final-wide-2.jpeg)
 
 
 ### Design Rationale (Milestone 2)
