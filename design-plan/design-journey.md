@@ -520,7 +520,7 @@ Our design is appropriate for our audience because it fulfills all their goals t
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+The interactivity we added to our website is used to make our audience's experience easier and more enjoyable. It both makes the content easier to digest, but also saves space on our site. For example, the slideshow on the home page rotates through images of the frat and its brothers, which shows the user what being in the fraternity actually looks like. While we could have just placed the pitures around the about page, by rotating through them, we are saving space and making our website more dynamic and intersting for our users. The interactivity we use also helps keep our users enaged in our site, as it allows them to actually interact with it rather than simply scrolling through the pages.
 
 
 ## Interactivity Plan (Milestone 2)
