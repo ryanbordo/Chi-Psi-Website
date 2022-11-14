@@ -419,14 +419,15 @@ TODO: why does this organization make sense for your audience (not you)?
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- About Page
+- Brothers
+- Events
+- Values
+- Recruitment
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+These page names make sense because they clearly tell the audience what kind of content they will be able to find on the pages. They are also short and concise in order to get the information to the audience clearly and quickly.
 
 
 ## Visual Theme (Milestone 2)
@@ -451,9 +452,11 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+- Hamburger menu: This will appear when the user views the site in mobile form, which will save space by hiding the menu, allowing the user to see more content.
+- Gallery: This will be on the home/about page and show the audience pictures of the frat house and the brothers to show the audience what this organization looks like.
+- Carousel: This will be a carousel of the brothers participating in their philanthropy. This will save space, but still show the audience a lot of content to get them more engaged with the site.
+- Modal: On the brothers page, there will be a modal of pictures of the current brothers, and when you click on one of their pictures, a quote will appear. This is a fun way to get direct information about the frat, from the brothers themselves, to the audience.
+- Accordion: on the recruitment page, we will include a variety of FAQs. When the user clicks on one of the questions, an accordion will drop down with answers to these questions.
 
 
 ### Layout Exploration (Milestone 2)
