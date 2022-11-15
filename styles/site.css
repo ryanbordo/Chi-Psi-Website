@@ -3,8 +3,10 @@ html{
 }
 .main-content{
     display: flex;
+    flex-direction: column;
     background-color: violet;
     margin-top: 10px;
+    padding-top: 20px;
 }
 nav{
     display: flex;
@@ -105,7 +107,7 @@ header{
 }
 
 .hidden{
-    display: none;
+    display: none !important;
 }
 
 
@@ -116,7 +118,40 @@ header{
 .carouselpic {
     width: 100%;
 }
-
+.slides{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home-slide-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.home-slide-button:hover{
+    background-color: blue;
+    cursor:pointer;
+}
+.home-slide-button{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+.selected{
+    background-color: rgb(0, 255, 34);
+}
+.slide{
+    display: flex;
+    justify-content: center;
+}
+.slide img{
+    display: flex;
+    max-width: 80%;
+    height: auto;
+}
 @media screen and (min-width: 600px) {
     #hamburger, #hamburger-menu{
         display: none;
