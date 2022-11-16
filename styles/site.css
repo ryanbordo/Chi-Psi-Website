@@ -175,6 +175,15 @@ header{
 .question:hover{
     background-color: #ffffff30;
 }
+
+.left-column {
+    width: 100%;
+}
+
+.right-column {
+    width: 100%;
+}
+
 @media screen and (min-width: 600px) {
     #hamburger, #hamburger-menu{
         display: none;
