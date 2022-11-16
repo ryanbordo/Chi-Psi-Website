@@ -404,7 +404,7 @@ Our content is directly designed to address our audience's goals of learning mor
 > Please physically sort cards; please don't try and do this digitally.
 
 ![card-sort-1](card-sort-iteration-1.jpeg)
-Above is the first iteration of our card sorting. On the homepage, we have photos of the Chi Psi house and borthers, and a general descriptions of Chi Psi and its history. On the event page we only have a list of upcoming events because this is the only thing that users are expecting to see when they click on the event page. On the values page we have included a description of Chi Psi's values and missions, as well as a description of chapter philantrophy and photos of "No Shave November" because they are some featured activities that shows how much Chi Psi values philantrophy. On the brothers page we have photos of current brothers can some quotes from them to give our audience a general sense of who the brothers are and what their personality is. On the recruitment page we have the general information on Chi Psi's recruitment, such as events and timeline, as well as a section for recruitment FAQs.
+Above is the first iteration of our card sorting. On the homepage, we have photos of the Chi Psi house and borthers, and a general descriptions of Chi Psi and its history. On the event page we only have a list of upcoming events because this is the only thing that users are expecting to see when they click on the event page. On the values page we have included a description of Chi Psi's values and missions, as well as a description of chapter philantrophy and photos of "No Shave November" because they are some featured activities that shows how much Chi Psi values philanthropy. On the brothers page we have photos of current brothers can some quotes from them to give our audience a general sense of who the brothers are and what their personality is. On the recruitment page we have the general information on Chi Psi's recruitment, such as events and timeline, as well as a section for recruitment FAQs.
 
 ![card-sort-2](card-sort-iteration-2.jpeg)
 Above is the second iteration of our card sorting. The difference between the second iteration and the first one is that we moved the quotes from current brothers to the home page. We also moved the description of chapter philantrophy and photos of "No Shave November" to the events page because they can also be considered as one of the events.
@@ -414,11 +414,11 @@ Above is the second iteration of our card sorting. The difference between the se
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-We decidied to use the first iteration.
+We decided to use the first iteration.
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-Although movinng the quotes from current brothers to the homepage can enable the audience to see the quotes as soon as they visit the website which helps them better understand Chi Psi and its vibe faster, we think it is better to put the photos of brothers and their quotes together so that the audience knows which quote is from which brother and this better helps the audience to accomplish their goal of getting more aquainted with the brothers. We also decided not to move the description of chapter philantriphy and the photos of "No Shave November" to the event page because we think they are great examples of Chi Psi's mission statement and its values, so it would be better to put them on the values page.
+Although moving the quotes from current brothers to the homepage can enable the audience to see the quotes as soon as they visit the website which helps them better understand Chi Psi and its vibe faster, we think it is better to put the photos of brothers and their quotes together so that the audience knows which quote is from which brother and this better helps the audience to accomplish their goal of getting more aquainted with the brothers. We also decided not to move the description of chapter philantrophy and the photos of "No Shave November" to the event page because we think they are great examples of Chi Psi's mission statement and its values, so it would be better to put them on the values page.
 
 
 ### Navigation (Milestone 2)
@@ -496,17 +496,17 @@ We were inspired by our example websites for this values page. We will use divs 
 **Narrow (Mobile) Design:**
 
 ![Narrow about sketch, before clicking hamburger](about-final-narrow-1.jpeg)
-This is a sketch of what our narrow screen website looks like before the hamburger menu is clicked.
+This is a sketch of what the homepage of our narrow screen website looks like before the hamburger menu is clicked. We will use an image gallery, with more written information below the gallery.
 ![Narrow about sketch, after clicking hamburger](about-final-narrow-2.jpeg)
 When a user clicks on the hamburger menu, it drops down and covers the content behind it. It also makes the content a bit darker in order to help the user focus their attention strictly on the hamburger menu.
 ![Narrow brothers sketch, before clicking modal](brothers-final-narrow-1.jpeg)
-This is a sketch of what our narrow screen website looks like before a picture of one of the brothers is clicked on.
+This is a sketch of what our narrow screen website looks like before a picture of one of the brothers is clicked on on the brothers page. We think that the photos of brothers will make the site appear more personal and will feature chapter members in a fun way.
 ![Narrow brothers sketch, after clicking modal](brothers-final-narrow-2.jpeg)
 After a picture of a borther is clicied, a quote of theirs appears and covers the other images in the background. Similar to the hamburger menu, when the quote appears, the background is darkened to help the user focus on the quote. This design makes good use of the space, as every picture is paired with important information that comes directly from the brothers.
 ![Narrow events sketch](events-final-narrow.jpeg)
 The events page covers both alumni and brotherhood events, which is important for students interested in the fraternity to know about. We have a good mixture of pictures and text in order to keep the user engaged despite the lack of interactivity.
 ![Narrow values sketch](values-final-narrow.jpeg)
-Our values page contains our carousel, where users can look through images of the fraternity brothers participating in their philanthropy.
+Our values page contains our carousel, where users can look through images of the fraternity brothers participating in their philanthropy. We also include information above about the fraternity's key mission and values on a national scale.
 ![Narrow recruitment sketch](recruitment-final-narrow.jpeg)
 In the recruitment page, we feature an accordion to make better use of our space for the FAQ section. At the top of the page is a brief description of the recruitment process, followed by our FAQ accordion and finally some pictures of brothers.
 
@@ -519,9 +519,9 @@ we liked this layout because it show cases all of the brother's faces in a neat 
 ![Wide brothers sketch, after clicking modal](brothers-final-wide-2.jpeg)
 When the image is clicked, a modal will pop up with a description of the brother and maybe a funny quote from them. We thought this was a good use of interactivity because you can learn more about brothers of the chapter.
 ![Wide events sketch](events-final-wide.jpeg)
-we liked the split screen layout for the events page because it showcases the two events that chi psi at cornell does, excluding recruitment which is on its own page. We chose to keep it on a seperate page becuase there events are limited to brothers only. There will be pictures of some examples of the events as well.
+We liked the split screen layout for the events page because it showcases the two events that chi psi at cornell does, excluding recruitment which is on its own page. We chose to keep it on a seperate page becuase there events are limited to brothers only. There will be pictures of some examples of the events as well.
 ![Wide values sketch](values-final-wide.jpeg)
-we liked this layout because it show cases the mission and values first and then it will show the current philthropy that chi psi is doing. The interactivity of the page is a carasel. We thought this was great because we have many different pictures of the brothers raising money for their chairty through growing their mustaches and showcasing it on their instagram.
+We liked this layout because it showcases the mission and values first and then it will show the current philanthropy that chi psi is doing. The interactivity of the page is a carousel. We thought this was great because we have many different pictures of the brothers raising money for their chairty through growing their mustaches and showcasing it on their Instagram.
 ![Wide recruitment sketch](recruitment-final-wide.jpeg)
 For the wide version of the recruitment page, we put content into two columns so that the text does not become too wide that it is unreadable. On the left is our description and FAQ accordion, then we will add pictures to the right side. Seeing recruitment information side by side with fun photos of brothers should enable potential new members to see themselves joining Chi Psi.
 
@@ -532,14 +532,14 @@ For the wide version of the recruitment page, we put content into two columns so
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-Our design is appropriate for our audience because it fulfills all their goals that we identified earlier. The audience can find events related to the frat if they go to the event page where we list all upcoming events.The can get more aquainted with the brothers if they go to the brothers page where we have photos of all the current brothers, as well as a quote from each of them to help the audience better know what their persoanlity might be. We also addressed their goal of learning about the values and social efforts of the frat by offering a values page where we listed Chi Psi's mission statements and values, as well as photos of some featured events that illustrates them. Finally, the audience can learn about the rush and recuitment process of the frat if they go to the recruitment page where we offered them some general information about the recruitment, such as events and timeline, as well as some FAQs. Some common design patterns that we employed to increase the familiarity of the site include the navigation bar on the top of each page for wide screens, a hamburger menu to help narrow screen users navigate, image carousels, slide shows, and galleries to assist users to view images. We also make exit buttons to look like a cross so that users know how to exit certain interactivities.
+Our design is appropriate for our audience because it fulfills all their goals that we identified earlier. The audience can find events related to the frat if they go to the event page where we list all upcoming events. They can get more acquainted with the brothers if they go to the brothers page where we have photos of many current brothers, as well as a quote from each of them to help the audience better know what their persoanlity might be. We also addressed their goal of learning about the values and social efforts of the frat by offering a values page where we listed Chi Psi's mission statements and values, as well as photos of some featured events that illustrates them. Finally, the audience can learn about the recuitment process of the frat if they go to the recruitment page where we offered them some general information about the recruitment, such as events and timeline, as well as some FAQs. Some common design patterns that we employed to increase the familiarity of the site include the navigation bar on the top of each page for wide screens, a hamburger menu to help narrow screen users navigate, image carousels, slide shows, and galleries to assist users to view images. We also make exit buttons to look like a cross so that users know how to exit certain interactivities.
 
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-The interactivity we added to our website is used to make our audience's experience easier and more enjoyable. It both makes the content easier to digest, but also saves space on our site. For example, the slideshow on the home page rotates through images of the frat and its brothers, which shows the user what being in the fraternity actually looks like. While we could have just placed the pitures around the about page, by rotating through them, we are saving space and making our website more dynamic and intersting for our users. The interactivity we use also helps keep our users enaged in our site, as it allows them to actually interact with it rather than simply scrolling through the pages.
+The interactivity we added to our website is used to make our audience's experience easier and more enjoyable. It both makes the content easier to digest, but also saves space on our site. For example, the slideshow on the home page rotates through images of the frat and its brothers, which shows the user what being in the fraternity actually looks like. While we could have just placed the pictures around the about page, by rotating through them, we are saving space and making our website more dynamic and interesting for our users. The interactivity we use also helps keep our users enaged in our site, as it allows them to actually interact with it rather than simply scrolling through the pages.
 
 
 ## Interactivity Plan (Milestone 2)
@@ -548,10 +548,10 @@ The interactivity we added to our website is used to make our audience's experie
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 Accordion:
-when #FAQ clicked
-    show #answers
-if #FAQ clicked again
-    hide #answers
+when #question clicked
+    show #answer
+if #question clicked again
+    hide #answer
 
 Carousel:
 when #arrow is clicked
@@ -566,7 +566,7 @@ Hamburger Menu:
 when #hamburger-menu clicked
     show links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
 if #hamburger-menu clicked again
-    hide  show links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
+    hide links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
 
 Modal:
 when #brotherpic is clicked
@@ -586,6 +586,7 @@ greeted them
 talked about thanksgiving plans
 showed the content plan and lay out for each of the pages
 liked the pages and the way the content was organized
+suggested inclusion of more fraternity colors, wanted to see final design look more polished and modern
 emphasized the importance of pictures
 said to reach out the president of chi psi for alumni pictures and offered tour the house for pictures
 
