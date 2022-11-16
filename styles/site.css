@@ -271,6 +271,9 @@ nav a{
     margin-bottom: 10px;
 }
 @media screen and (min-width: 600px) {
+    .left-column{
+        margin-right: 30px;
+    }
     #philanthropy-text{
         min-width: 50%;
     }
