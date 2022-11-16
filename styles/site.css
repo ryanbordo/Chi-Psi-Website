@@ -50,6 +50,7 @@ nav ul li{
     margin: 10px;
     align-items: center;
     max-width: fit-content;
+    font-family: sans-serif;
 }
 .greek{
     margin-top: 5px !important;
@@ -257,9 +258,7 @@ button{
         padding-top: 0px !important;
         min-width: fit-content;
     }
-    .title img{
-        width: 130px;
-    }
+
 
     .columns{
         display: flex;
