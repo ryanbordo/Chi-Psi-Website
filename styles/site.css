@@ -35,6 +35,12 @@ nav ul li{
     display: flex;
 }
 
+.values-icon{
+    max-width: 150px;
+    min-width: 100px;
+    width: 100%;
+}
+
 .title{
     padding: 10px;
     display: flex;
@@ -216,6 +222,17 @@ button{
     font-weight: bold;
     width: 20%;
 }
+.values{
+    display: flex;
+    flex-direction: column;
+}
+
+.values-text{
+    width: 70%;
+}
+#philanthropy-text{
+    width: 30%;
+}
 
 @media screen and (min-width: 600px) {
     .carousel button{
@@ -261,6 +278,16 @@ button{
 
 
     .columns{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .values{
+        display: flex;
+        flex-direction: row;
+    }
+
+    #philanthropy-div{
         display: flex;
         flex-direction: row;
     }
