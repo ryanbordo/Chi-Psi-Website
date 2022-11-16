@@ -2,7 +2,8 @@ html{
     background-color: rgb(0, 0, 0);
 }
 h1{
-    margin: 10px;
+    margin: 0px;
+    margin-bottom: 10px;
     font-size: 36px;
 }
 .main-content{
@@ -10,7 +11,7 @@ h1{
     flex-direction: column;
     background-color: rgb(173, 180, 180);
     margin-top: 10px;
-    padding: 20px;
+    padding: 30px;
 }
 nav{
     display: flex;
@@ -190,7 +191,7 @@ button{
 }
 .left-column{
     width: 50%;
-    margin: 1em;
+    margin-right: 10px;
 }
 .question{
     cursor: pointer;
@@ -208,16 +209,14 @@ button{
     padding: 5px;
 }
 
-.left-column {
+.left-column, .right-column {
     width: 100%;
-}
-
-.right-column {
-    width: 100%;
+    margin: 0px;
 }
 
 .columns {
     margin: 10px;
+    margin-left: 0;
 }
 
 .home-slide-button {
@@ -256,7 +255,13 @@ button{
 nav a{
     margin: 5px;
 }
+#philanthropy-text{
+    min-width: 80%;
+}
 @media screen and (min-width: 600px) {
+    #philanthropy-text{
+        min-width: 50%;
+    }
     .carousel button{
         width: 5%;
     }
