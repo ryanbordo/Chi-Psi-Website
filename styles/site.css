@@ -1,17 +1,17 @@
 html{
-    background-color: darkgreen;
+    background-color: rgb(173, 180, 180);
 }
 .main-content{
     display: flex;
     flex-direction: column;
-    background-color: violet;
+    background-color: rgb(173, 180, 180);
     margin-top: 10px;
     padding-top: 20px;
 }
 nav{
     display: flex;
     flex-direction: column;
-    background-color: aqua;
+    background-color: rgb(101,64,153);
     padding: 10px;
     margin-top: 10px;
 }
@@ -25,7 +25,7 @@ nav ul{
     height: 100%;
 }
 nav ul a{
-    background-color: yellow;
+    background-color: rgb(180,152,89);
     padding: 10px;
     text-decoration: none;
     color: black;
@@ -34,11 +34,12 @@ nav ul a{
 nav ul li{
     display: flex;
 }
+
 .title{
     padding: 10px;
     display: flex;
     flex-direction: row;
-    background-color:crimson;
+    background-color:rgb(173, 180, 180);;
 }
 #widescreen-nav{
     display: none;
@@ -130,18 +131,18 @@ header{
     justify-content: space-evenly;
 }
 .home-slide-button:hover{
-    background-color: blue;
+    background-color: rgb(101,64,153);
     cursor:pointer;
 }
 .home-slide-button{
-    background-color: aquamarine;
+    background-color: rgb(75, 72, 72);
     width: 100px;
     height: 100px;
     border: 1px black solid;
     border-radius: 50%;
 }
 .selected{
-    background-color: rgb(0, 255, 34);
+    background-color: rgb(101,64,153);
 }
 .slide{
     display: flex;
@@ -182,6 +183,16 @@ header{
 
 .right-column {
     width: 100%;
+}
+
+.columns {
+    margin: 10px;
+}
+
+.home-slide-button {
+    margin: 10px;
+    width: 40px;
+    height: 40px;
 }
 
 @media screen and (min-width: 600px) {
