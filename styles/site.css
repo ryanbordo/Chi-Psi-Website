@@ -177,6 +177,7 @@ button{
 }
 .right-column{
     width: 50%;
+    margin: 1em;
 }
 .columns img{
     width: 70%;
@@ -189,6 +190,7 @@ button{
 }
 .left-column{
     width: 50%;
+    margin: 1em;
 }
 .question{
     cursor: pointer;
