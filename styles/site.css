@@ -45,6 +45,7 @@ nav ul li{
     max-width: 150px;
     min-width: 100px;
     width: 100%;
+    padding: 10px;
 }
 
 .title{
@@ -138,6 +139,8 @@ button{
 
 .carouselpic {
     width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
 }
 .slides{
     display: flex;
@@ -244,10 +247,13 @@ button{
 .values{
     display: flex;
     flex-direction: column;
+    width: 100%;
+    align-items: center;
 }
 
 .values-text{
     width: 70%;
+    margin-left: 20px;
 }
 #philanthropy-text{
     width: 30%;
@@ -257,6 +263,11 @@ nav a{
 }
 #philanthropy-text{
     min-width: 80%;
+}
+#valueslist{
+    background-color: rgb(101,64,153);
+    color: #e7e7e7;
+    margin-bottom: 10px;
 }
 @media screen and (min-width: 600px) {
     #philanthropy-text{
