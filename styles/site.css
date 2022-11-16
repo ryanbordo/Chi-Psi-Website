@@ -152,6 +152,29 @@ header{
     max-width: 80%;
     height: auto;
 }
+
+.columns{
+    display: flex;
+    flex-direction: column;
+}
+.right-column{
+    width: 50%;
+}
+.right-column img{
+    max-width: 650px; /* this is the true dimension */
+    min-width: 200px;
+    width: 100%;
+}
+.left-column{
+    width: 50%;
+}
+.question{
+    cursor: pointer;
+}
+
+.question:hover{
+    background-color: #ffffff30;
+}
 @media screen and (min-width: 600px) {
     #hamburger, #hamburger-menu{
         display: none;
@@ -192,5 +215,10 @@ header{
     }
     .title img{
         width: 130px;
+    }
+
+    .columns{
+        display: flex;
+        flex-direction: row;
     }
 }
