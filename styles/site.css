@@ -256,8 +256,9 @@ button{
     width: 70%;
     margin-left: 20px;
 }
+
 #philanthropy-text{
-    width: 30%;
+    width: 100%;
 }
 nav a{
     margin: 5px;
@@ -324,5 +325,11 @@ nav a{
     #philanthropy-div{
         display: flex;
         flex-direction: row;
+    }
+    #philanthropy-text{
+        width: 30%;
+    }
+    .values-text{
+        width: 100%;
     }
 }
