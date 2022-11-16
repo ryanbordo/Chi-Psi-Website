@@ -8,10 +8,10 @@ setInterval(function() {
     nextSlide();
   }, 7000);
 
-const SLIDES = $(".slide");
+const SLIDES = $(".carouselpic");
 
 function nextSlide() {
-  let nextNum = SLIDES.index($(".slide:not(.hidden)")) + 1 + 1;
+  let nextNum = SLIDES.index($(".carouselpic:not(.hidden)")) + 1 + 1;
   if (nextNum > SLIDES.length) {
     nextNum = 1;
   }
@@ -19,7 +19,7 @@ function nextSlide() {
 }
 
 function prevSlide() {
-  let prevNum = SLIDES.index($(".slide:not(.hidden)")) - 1 + 1;
+  let prevNum = SLIDES.index($(".carouselpic:not(.hidden)")) - 1 + 1;
   if (prevNum <= 0) {
     prevNum = SLIDES.length;
   }
