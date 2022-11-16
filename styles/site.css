@@ -311,7 +311,20 @@ nav a{
     height: 75%;
 }
 
+.brother-row-1{
+    display: flex;
+    flex-direction: column;
+}
 
+.brother-row-2{
+    display: flex;
+    flex-direction: column;
+}
+
+button img{
+    width:80%;
+    height: auto;
+}
 
 #philanthropy-text{
     min-width: 80%;
@@ -389,5 +402,17 @@ nav a{
     }
     .values-text{
         width: 100%;
+    }
+
+    .brother-row-1{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .brother-row-2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
     }
 }
