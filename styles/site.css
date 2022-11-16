@@ -221,6 +221,7 @@ button{
     font-size: 30px;
     font-weight: bold;
     width: 20%;
+    min-width: fit-content;
 }
 .values{
     display: flex;
