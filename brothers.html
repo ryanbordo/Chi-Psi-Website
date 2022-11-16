@@ -8,35 +8,26 @@
 <title>Brothers</title>
 <link rel="stylesheet" type="text/css" href="styles/site.css" media="all">
 </head>
-<body>
-    <header>
-        <div class="title">
-            <picture>
-                <img src="images/Chi_Psi_Seal.png" alt="">
-            </picture>
-            <div class="title-text">
-            <h1 class="greek">χ ψ</h1>
-            <h1>|</h1>
-            <h1>Cornell University</h1>
+<body class="brothers-body">
+    <div class="non-modal">
+        <header>
+            <div class="title">
+                <picture>
+                    <img src="images/Chi_Psi_Seal.png" alt="">
+                </picture>
+                <div class="title-text">
+                <h1 class="greek">χ ψ</h1>
+                <h1>|</h1>
+                <h1>Cornell University</h1>
+                </div>
+                <div class="title-space">
+                </div>
             </div>
-            <div class="title-space">
-            </div>
-        </div>
-        <button id = "hamburger" aria-label = "Toggle Navigation">
-            <!--Image source: https://uxwing.com/hamburger-menu-icon/-->
-            <img src = "images/hamburger-menu-icon.svg" alt = "" id = "ham-image">
-        </button>
-        <nav id="widescreen-nav">
-            <ul>
-                <li><a href="index.html">About Us</a></li>
-                <li><a href="values.html">Values</a></li>
-                <li><a href="brothers.html">Brothers</a></li>
-                <li><a href="events.html">Events</a></li>
-                <li><a href="recruitment.html">Recruitment</a></li>
-            </ul>
-        </nav>
-        <div id = "hamburger-menu" class = "hidden">
-            <nav>
+            <button id = "hamburger" aria-label = "Toggle Navigation">
+                <!--Image source: https://uxwing.com/hamburger-menu-icon/-->
+                <img src = "images/hamburger-menu-icon.svg" alt = "" id = "ham-image">
+            </button>
+            <nav id="widescreen-nav">
                 <ul>
                     <li><a href="index.html">About Us</a></li>
                     <li><a href="values.html">Values</a></li>
@@ -45,14 +36,86 @@
                     <li><a href="recruitment.html">Recruitment</a></li>
                 </ul>
             </nav>
+            <div id = "hamburger-menu" class = "hidden">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">About Us</a></li>
+                        <li><a href="values.html">Values</a></li>
+                        <li><a href="brothers.html">Brothers</a></li>
+                        <li><a href="events.html">Events</a></li>
+                        <li><a href="recruitment.html">Recruitment</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div id = "ham-overlay" class = "hidden"></div>
+        <div class="main-content">
+            <h1>The Brothers</h1>
+            <h2>The client did not send us the content on time. We will replace the images with real photos of the brothers after we get them from the client</h2>
         </div>
-    </header>
-    <div id = "ham-overlay" class = "hidden"></div>
-    <div class="main-content">
-        <h1>The Brothers</h1>
+
+        <div class="brotehrs-photo">
+        <button id="name1">
+            <!--Source: https://www.chipsi.org/wp-content/uploads/2021/10/IMG_5002-scaled.jpg-->
+            <img src="images/gigachad.jpeg" alt="Brother_Name" width="600" height="367">
+        </button>
+
+        <button id="name2">
+            <!--Source: https://www.chipsi.org/wp-content/uploads/2021/10/IMG_5002-scaled.jpg-->
+            <img src="images/gigachad.jpeg" alt="Brother_Name" width="600" height="367">
+        </button>
+
+        <button id="name3">
+            <!--Source: https://www.chipsi.org/wp-content/uploads/2021/10/IMG_5002-scaled.jpg-->
+            <img src="images/gigachad.jpeg" alt="Brother_Name" width="600" height="367">
+        </button>
+
+        <button id="name4">
+            <!--Source: https://www.chipsi.org/wp-content/uploads/2021/10/IMG_5002-scaled.jpg-->
+            <img src="images/gigachad.jpeg" alt="Brother_Name" width="600" height="367">
+        </button>
     </div>
+
+    <div class="modal">
+        <div id="quote-popup-1" class="hidden quote-popup anti-grayout">
+            <h2>Brother 1</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="quote">
+                Quote 1 goes here.
+            </div>
+        </div>
+
+        <div id="quote-popup-2" class="hidden quote-popup anti-grayout">
+            <h2>Brother 2</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="quote">
+                Quote 2 goes here.
+            </div>
+        </div>
+
+        <div id="quote-popup-3" class="hidden quote-popup anti-grayout">
+            <h2>Brother 3</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="quote">
+                Quote 3 goes here.
+            </div>
+        </div>
+
+        <div id="quote-popup-4" class="hidden quote-popup anti-grayout">
+            <h2>Brother 4</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="quote">
+                Quote 4 goes here.
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+
 
     <script src = "scripts/jquery-3.6.1.js"></script>
     <script src = "scripts/hamburger-menu.js"></script>
     <script src = "scripts/slideshow.js"></script>
+    <script src = "scripts/brothers.js"></script>
 </body>
