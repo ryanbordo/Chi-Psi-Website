@@ -16,3 +16,14 @@ $("#hamburger").click(function(){
         $("#ham-overlay").addClass("hidden");
     }
 })
+
+// when window is resized to wide and hamburger menu is open,
+    // make overlay go away
+
+    $(window).resize(function() {
+        if ($(window).width() > 600) {
+          if (!$("#ham-overlay").hasClass("hidden")){
+            $("#ham-overlay").addClass("hidden");
+          }
+        }
+      });
