@@ -192,10 +192,18 @@ button{
 }
 .question{
     cursor: pointer;
+    padding: 5px;
 }
 
 .question:hover{
     background-color: #ffffff30;
+}
+
+.answer{
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color:rgb(218, 226, 226);
+    padding: 5px;
 }
 
 .left-column {
