@@ -206,8 +206,8 @@ button{
     max-width: 100%;
 }
 .carouselpic{
-    max-height: 300px;
-    max-width: 400px;
+    max-height: 300px; /* actual dimension of images */
+    max-width: 400px; /* actual dimension of images */
     width: 50%;
 }
 .carousel button{
