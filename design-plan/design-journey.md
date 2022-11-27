@@ -601,13 +601,13 @@ said to reach out the president of chi psi for alumni pictures and offered tour 
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Please identify one upcoming brotherhood event that the fraternity is hosting. (Events goal)
 
-2. TODO: task 2
+2. Please find the dates for the next recruitment cycle. (Recruitment goal)
 
-3. TODO: task 3
+3. Imagine that you are a potential new member interested in joining a fraternity. Please use the website to identify one positive trait that Chi Psi has that would make you want to join Chi Psi. (Get to know the frat goal)
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+4. Please find the Chi Psi organization's values. Choose a value that resonates with you the most.
 
 
 ### Participant 1 (Final Submission)
