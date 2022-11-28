@@ -309,6 +309,15 @@ nav a{
     transform: translate(-50%, -50%);
     width: 75%;
     height: 75%;
+    padding: 5%;
+}
+
+.quote{
+    font-size: 24pt;
+}
+
+.quote-popup h2 {
+    font-size: 36pt;
 }
 
 .brother-row-1{
@@ -414,5 +423,13 @@ button img{
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
+    }
+
+    p{
+        max-width: 80%;
+    }
+
+    .values-text ul {
+        max-width: 80%;
     }
 }
