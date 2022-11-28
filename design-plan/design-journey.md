@@ -642,20 +642,25 @@ Task 4: User was already on the values page from the previous task. She looked a
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
-
+    User is a sophomore at Cornell studying Statistics and interested in joining a social frat. He is also from Virginia.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes
 
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+Task 1: The user quickly realized there was a nav item for the events page and clicked on it. They located the first event correctly on the page, but was left curious about where the event was located.
+
+Task 2: The user again was able to find the page associated with the page by using the nav bar. Then, he found the paragraph outlining the recruitment cycles and correcrtly identified the correct dates for the spring recruitment.
+
+Task 3: From the about us page, the user found that the house looked very nice and thought it would be a fun place to live. Then, he navigated to the brothers page and clicked on the picture of Quinn. He thought the interactivity was nice and enjoyed reading the quote from Quinn. The user became further interested in the frat from the quote and decided he wants to visit sometime. The task ended there. I believe the user regarded the house and brothers as a positive aspect.
+
+Task 4: The user easily navigated to the values page after the prompt but found that the openning text was a little bit cliche. The user scrolled to the bottom and found the philanthropy section. He liked the following of traditions, including no shave november, to be a cool and respectable value of the frat. He said he liked the slideshow of the brothers and their mustaches as it heloed him see more of the brothers.
 
 
 ### Participant 3 (Final Submission)
