@@ -267,10 +267,6 @@ nav a{
     opacity: 30%;
 }
 
-.anti-grayout{
-    opacity: 100%;
-}
-
 .modal{
     z-index: 200;
 }
