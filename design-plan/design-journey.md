@@ -628,7 +628,13 @@ said to reach out the president of chi psi for alumni pictures and offered tour 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+Task 1: User had fun looking at the image carousel on the main page. Then, she navigated to the Events page and selected the first listed brotherhood event.
+
+Task 2: User said she remembered seeing a recruitment page on the navigation, and navigated there. She opened the FAQ section for the recruitment timeline and correctly found the recruitment dates.
+
+Task 3: User navigated to the values and philanthropy page. She looked through the pictures of the guys with their mustaches, and she said that the positive trait she identified is that they do philanthropy. She said she was confused that the navigation said "Values" while the page says "Values and Philanthropy."
+
+Task 4: User was already on the values page from the previous task. She looked at the list of values and chose "intellectual growth and the attainment of human potential." She said she didn't realize that fraternities had values, which indicates that our content may be useful.
 
 
 ### Participant 2 (Final Submission)
