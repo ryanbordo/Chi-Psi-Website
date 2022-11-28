@@ -607,7 +607,7 @@ said to reach out the president of chi psi for alumni pictures and offered tour 
 
 3. Imagine that you are a potential new member interested in joining a fraternity. Please use the website to identify one positive trait that Chi Psi has that would make you want to join Chi Psi. (Get to know the frat goal)
 
-4. Please find the Chi Psi organization's values. Choose a value that resonates with you the most.
+4. Please find the Chi Psi organization's values. Choose a value that resonates with you the most. (Values goal)
 
 
 ### Participant 1 (Final Submission)
@@ -615,14 +615,14 @@ said to reach out the president of chi psi for alumni pictures and offered tour 
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    My user is a junior at Cornell and is in a sorority. She is from Connecticut and is a bio major. She joined her sorority in spring 2021.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    No. Although she is not a member of my audience, as a part of the Greek community she understands the process of joining Greek organizations and what potential new members might look for in an organization. For this reason, I think she serves as an appropriate stand in for a member of the audience. Further, the tasks are designed for my audience's needs, so the difference between her purposes in visiting a fraternity website and the audience's purposes is irrelevant.
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
