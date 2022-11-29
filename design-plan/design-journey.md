@@ -707,13 +707,13 @@ Task 4: Again went to the values page. The participant found that Chi Psi is a f
 ### Participant 4 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-Task 1:
+Task 1: He navigated to the events page and found the events under the upcoming events section.
 
-Task 2:
+Task 2: He navigated to the recruitment tab. From here he clicked the dropdown bar with the title "What is the timeline on the Spring 2023 recruitment week?" and was able to find the dates for the next recruitment cycle.
 
-Task 3:
+Task 3: He really values philanthropy, so he went to the values page to get a better understanding of what philanthropy Chi Psi engages in.
 
-Task 4:
+Task 4: He navigated to the values page again and chose "Unique Brotherhood that forges among individuals a lasting bond that transcends self-interest and the limitations of time or place."
 
 
 TODO: add more participants if necessary
