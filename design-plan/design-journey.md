@@ -668,21 +668,26 @@ Task 4: The user easily navigated to the values page after the prompt but found 
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    Participant 3 is a sophomore at Cornell majoring in biology and society with a pre-med track. They are interested in joining a frad but does not know how.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes.
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+Task 1: The participant found the event button in the navigation bar very quickly. They clicked on it, and easily found a few upcoming events.
 
+Task 2: The participant saw the recruitment button in the navigation bar. They clicked on it, and quickly found the dates.
+
+Task 3: The participant looked at the navigation bar and saw the values button. They clicked on it, hoping to find out some positive traits about the frad through its mission statement. The participant did not find anything about mission statement on that page, but they did learn that Chi Psi values its members' mental health, which they thought was great.
+
+Task 4: Again went to the values page. The participant found that Chi Psi is a frad that pays a lot of attention to philantrophy. This resonates with the participant because they organized a lot of charity events during high school and also donated money to help people in need.
 
 TODO: add more participants if necessary
 
