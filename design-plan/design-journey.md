@@ -689,6 +689,33 @@ Task 3: The participant looked at the navigation bar and saw the values button. 
 
 Task 4: Again went to the values page. The participant found that Chi Psi is a frad that pays a lot of attention to philantrophy. This resonates with the participant because they organized a lot of charity events during high school and also donated money to help people in need.
 
+### Participant 4 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    Participant 4 is a junior at Cornell and is in Greek life. He is majoring in hotel.
+
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+   No. Although my user is not part of our website's audience, he went through the process of joining a fraternity when he was a freshman, so his feedback is useful as he understands what kind of information a potential member of Greek life would like to see.
+
+
+### Participant 4 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+Task 1:
+
+Task 2:
+
+Task 3:
+
+Task 4:
+
+
 TODO: add more participants if necessary
 
 
