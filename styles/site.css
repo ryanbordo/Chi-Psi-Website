@@ -331,7 +331,28 @@ nav a{
 .quote{
     font-size: 24pt;
 }
+.homepage-text a{
+    text-decoration: none;
+}
 
+a h3 {
+    background-color: rgb(225, 196, 126);
+    color: rgb(101,64,153);
+    font-family: sans-serif;
+    padding: 5%;
+    font-size: 20pt;
+    border: solid black 5px;
+    text-align: center;
+}
+
+a h3:hover{
+    background-color: rgb(230, 214, 175);
+    cursor: pointer;
+}
+
+#philanthropy-text{
+    min-width: 80%;
+}
 .quote-popup h2 {
     font-size: 36pt;
 }
