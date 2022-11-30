@@ -232,7 +232,16 @@ button{
     margin: 10px;
     margin-left: 0;
 }
+p{
+    font-size: 14pt;
+}
 
+.values-text li{
+    font-size: 14pt;
+    list-style-type:lower-greek;
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
 .home-slide-button {
     margin: 10px;
     width: 40px;
@@ -259,25 +268,21 @@ button{
     display: flex;
     flex-direction: column;
     width: 100%;
-    align-items: center;
 }
-
+.values picture{
+    display: flex;
+    justify-content: center;
+}
 .values-text{
-    width: 70%;
-    margin-left: 20px;
+    margin-left: 0px;
+    padding: 20px;
 }
-
 .values-text li{
-    font-size: 14pt;
-}
-
-#philanthropy-text{
-    width: 100%;
+    font-size: 18px;
 }
 nav a{
     margin: 5px;
 }
-
 .gray-out{
     opacity: 30%;
 }
@@ -345,32 +350,10 @@ button img{
     width:80%;
     height: auto;
 }
-.homepage-text a{
-    text-decoration: none;
-}
 
-a h3 {
-    background-color: rgb(225, 196, 126);
-    color: rgb(101,64,153);
-    font-family: sans-serif;
-    padding: 5%;
-    font-size: 20pt;
-    border: solid black 5px;
-    text-align: center;
-}
-
-a h3:hover{
-    background-color: rgb(230, 214, 175);
-    cursor: pointer;
-}
-
-#philanthropy-text{
-    min-width: 80%;
-}
 #valueslist{
     background-color: rgb(101,64,153);
     color: #e7e7e7;
-    margin-bottom: 10px;
 }
 
 #hamburger:hover{
@@ -379,6 +362,9 @@ a h3:hover{
 @media screen and (min-width: 655px) {
     .left-column{
         margin-right: 30px;
+    }
+    .carousel{
+        margin: 20px;
     }
     #philanthropy-text{
         min-width: 50%;
@@ -464,8 +450,9 @@ a h3:hover{
         font-size: 14pt;
     }
 
-    .values-text ul {
+    .values-text li{
         max-width: 80%;
+        font-size: 14pt;
     }
     .title-text{
         width: max-content;
