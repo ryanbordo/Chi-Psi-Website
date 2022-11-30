@@ -769,11 +769,14 @@ Revisions:
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+We did not collaborate with anyone outside our group on this project.
 
 
 ### Reference Resources (Final Submission)
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+- Mozilla HTML Reference: <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>
+- Mozilla CSS Reference: <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference>
+- Javascript code snippets: <https://canvas.cornell.edu/courses/41538/modules/items/1751311>
+- Centering a square on a page for modals: <https://stackoverflow.com/questions/35656887/square-div-at-center-of-the-page-of-max-size-with-pure-css>
