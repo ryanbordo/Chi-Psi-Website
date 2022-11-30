@@ -497,6 +497,10 @@ We were inspired by our example websites for this values page. We will use divs 
 
 ![Narrow about sketch, before clicking hamburger](about-final-narrow-1.jpeg)
 This is a sketch of what the homepage of our narrow screen website looks like before the hamburger menu is clicked. We will use an image gallery, with more written information below the gallery.
+
+Edit: We decided to eliminate the list of events, as we already have an entire page dedicated to events. We replaced it with a button that leads to the brothers page, because our user testing revealed that users did not notice the page as much as we were hoping.
+
+Edit: We decided to make our gallery take the form of a slideshow, with buttons to choose which photo to see that were not thumbnails of the photos. This is because we ended up with an odd number of photos, and thought it would look better this way.
 ![Narrow about sketch, after clicking hamburger](about-final-narrow-2.jpeg)
 When a user clicks on the hamburger menu, it drops down and covers the content behind it. It also makes the content a bit darker in order to help the user focus their attention strictly on the hamburger menu.
 ![Narrow brothers sketch, before clicking modal](brothers-final-narrow-1.jpeg)
@@ -514,8 +518,15 @@ In the recruitment page, we feature an accordion to make better use of our space
 **Wide (Wide) Design:**
 
 ![Wide about sketch](about-final-wide.jpeg)
+This is a sketch of the wide version of the about page. We chose to center the image slideshow, and make the events list a sidebar.
+
+Edit: We decided to eliminate the list of events, as we already have an entire page dedicated to events. We replaced it with a button that leads to the brothers page, because our user testing revealed that users did not notice the page as much as we were hoping.
+
+Edit: We decided to make our gallery take the form of a slideshow, with buttons to choose which photo to see that were not thumbnails of the photos. This is because we ended up with an odd number of photos, and thought it would look better this way.
 ![Wide brothers sketch, before clicking modal](brothers-final-wide-1.jpeg)
-we liked this layout because it show cases all of the brother's faces in a neat way. It is also similar to what the composite looks like, which is a common thing that must fraternities have. The interactivity is when you click on the picture it will pop up a blub about the brother.
+We liked this layout because it show cases all of the brother's faces in a neat way. It is also similar to what the composite looks like, which is a common thing that must fraternities have. The interactivity is when you click on the picture it will pop up a blub about the brother.
+
+Edit: the client had trouble getting content for this page to us in a timely manner, so we reduced the page to four photos with quotes based on what the client was able to provide. We also added the brothers' names and roles beneath their photos per the suggestion of one of our user testing participants.
 ![Wide brothers sketch, after clicking modal](brothers-final-wide-2.jpeg)
 When the image is clicked, a modal will pop up with a description of the brother and maybe a funny quote from them. We thought this was a good use of interactivity because you can learn more about brothers of the chapter.
 ![Wide events sketch](events-final-wide.jpeg)
