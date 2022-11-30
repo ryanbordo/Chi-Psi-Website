@@ -250,12 +250,12 @@ p{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    max-width: 100%;
 }
 .carouselpic{
     max-height: 300px; /* actual dimension of images */
     max-width: 400px; /* actual dimension of images */
-    /* width: 50%; */
+    width: 100%;
+    height: auto;
 }
 .carousel button{
     font-size: 30px;
