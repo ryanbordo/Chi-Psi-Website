@@ -427,7 +427,7 @@ button img{
 #hamburger:hover{
     cursor: pointer;
 }
-@media screen and (min-width: 655px) {
+@media screen and (min-width: 800px) {
     .left-column{
         margin-right: 30px;
     }
@@ -452,10 +452,8 @@ button img{
     }
 
     .carouselpic {
-        /* min-width: 400px;
-        min-height: 300px; */
-        max-width:100%;
-        height:auto;
+        width: 400px;
+        height: 300px;
     }
 
     #prev-button{
