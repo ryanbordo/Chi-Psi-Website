@@ -149,7 +149,7 @@ button{
 }
 
 .carouselpic {
-    width: 100%;
+    /* width: 100%; */
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
@@ -258,7 +258,7 @@ p{
 .carouselpic{
     max-height: 300px; /* actual dimension of images */
     max-width: 400px; /* actual dimension of images */
-    width: 50%;
+    /* width: 50%; */
 }
 .carousel button{
     font-size: 30px;
@@ -447,9 +447,10 @@ button img{
     }
 
     .carouselpic {
-        min-width: 400px;
-        min-height: 300px;
-        width: 60%;
+        /* min-width: 400px;
+        min-height: 300px; */
+        max-width:100%;
+        height:auto;
     }
 
     #prev-button{
