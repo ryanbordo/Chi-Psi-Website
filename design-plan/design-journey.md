@@ -729,7 +729,27 @@ Task 3: He really values philanthropy, so he went to the values page to get a be
 Task 4: He navigated to the values page again and chose "Unique Brotherhood that forges among individuals a lasting bond that transcends self-interest and the limitations of time or place."
 
 
-TODO: add more participants if necessary
+### Participant 5 (Final Submission)
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+The user that is testing the site today is a sophomore that is undecided in arts and science. He is a full time student who is an international student and loves to play sports.
+
+2. Does the user belong to your audience of the site?
+
+Yes, he could potentially recruit to Chi Psi Cornell.
+
+
+### Participant 5 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+Task 1: The user navigated to the events page and then found the brotherhood event that was under the upcoming events tab
+
+Task 2: The user first went to the events page but then went to the recruitment page to find the dates for the next cycle.
+
+Task 3: He went to the events page from the previous tasks to point out the picture of all of the alumni who were in the picture. He said he really values brotherhood and life long friendship
+
+Task 4: He went to the values and indentified the brotherood
 
 
 ## Website Revision Based on User Testing (Final Submission)
