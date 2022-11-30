@@ -6,6 +6,12 @@ h1{
     margin-bottom: 10px;
     font-size: 36px;
 }
+
+#cornell{
+    border-left: solid black 3px;
+    padding-left: 5%;
+}
+
 .main-content{
     display: flex;
     flex-direction: column;
@@ -39,6 +45,11 @@ nav ul a{
 
 nav ul li{
     display: flex;
+}
+
+nav ul a:hover{
+    cursor: pointer;
+    background-color: rgb(225, 196, 126);
 }
 
 .values-icon{
@@ -94,7 +105,7 @@ nav ul li{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    width: max-content;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -339,7 +350,11 @@ button img{
     color: #e7e7e7;
     margin-bottom: 10px;
 }
-@media screen and (min-width: 600px) {
+
+#hamburger:hover{
+    cursor: pointer;
+}
+@media screen and (min-width: 655px) {
     .left-column{
         margin-right: 30px;
     }
@@ -352,6 +367,7 @@ button img{
     #hamburger, #hamburger-menu{
         display: none;
     }
+
     #widescreen-nav{
         display: flex;
     }
@@ -428,4 +444,12 @@ button img{
     .values-text ul {
         max-width: 80%;
     }
+    .title-text{
+        width: max-content;
+    }
+
+    #cornell{
+        padding-left: 8%;
+    }
+
 }
