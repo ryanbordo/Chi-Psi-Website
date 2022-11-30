@@ -128,14 +128,6 @@ header{
     width: 100%;
     padding: 10px;
 }
-#ham-overlay{
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-color: #00000050;
-    z-index: 1;
-}
-
 .hidden{
     display: none !important;
 }
@@ -258,12 +250,12 @@ p{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    max-width: 100%;
 }
 .carouselpic{
     max-height: 300px; /* actual dimension of images */
     max-width: 400px; /* actual dimension of images */
-    /* width: 50%; */
+    width: 100%;
+    height: auto;
 }
 .carousel button{
     font-size: 30px;
