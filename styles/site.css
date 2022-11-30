@@ -332,11 +332,11 @@ nav a{
 }
 
 .quote{
-    font-size: 24pt;
+    font-size: 20pt;
 }
 
 .quote-popup h2 {
-    font-size: 36pt;
+    font-size: 30pt;
 }
 
 .brother-row-1{
@@ -366,8 +366,6 @@ nav a{
     padding-top: 5px;
     padding-bottom: 10px;
 }
-
-
 
 button img{
     width:80%;
