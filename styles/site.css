@@ -332,8 +332,8 @@ nav a{
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    width: 45%;
-    height: 45%;
+    width: 80%;
+    height: 80%;
     padding: 5%;
     background-color: white;
 }
@@ -548,6 +548,20 @@ button img{
     #about{
         max-width: 70%;
         padding-right: 10%;
+    }
+
+    .quote-popup {
+        z-index: 100;
+        background-color: white;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        width: 45%;
+        height: 45%;
+        padding: 5%;
+        background-color: white;
     }
 
 }
