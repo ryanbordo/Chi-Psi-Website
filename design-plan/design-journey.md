@@ -669,11 +669,11 @@ Overall, this user test went very well and shows that the information architectu
 
 Task 1: The user quickly realized there was a nav item for the events page and clicked on it. They located the first event correctly on the page, but was left curious about where the event was located.
 
-Task 2: The user again was able to find the page associated with the page by using the nav bar. Then, he found the paragraph outlining the recruitment cycles and correcrtly identified the correct dates for the spring recruitment.
+Task 2: The user again was able to find the page associated with the page by using the nav bar. Then, he found the paragraph outlining the recruitment cycles and correctly identified the correct dates for the spring recruitment.
 
 Task 3: From the about us page, the user found that the house looked very nice and thought it would be a fun place to live. Then, he navigated to the brothers page and clicked on the picture of Quinn. He thought the interactivity was nice and enjoyed reading the quote from Quinn. The user became further interested in the frat from the quote and decided he wants to visit sometime. The task ended there. I believe the user regarded the house and brothers as a positive aspect.
 
-Task 4: The user easily navigated to the values page after the prompt but found that the openning text was a little bit cliche. The user scrolled to the bottom and found the philanthropy section. He liked the following of traditions, including no shave november, to be a cool and respectable value of the frat. He said he liked the slideshow of the brothers and their mustaches as it heloed him see more of the brothers.
+Task 4: The user easily navigated to the values page after the prompt but found that the opening text was a little bit cliche. The user scrolled to the bottom and found the philanthropy section. He liked the following of traditions, including no shave november, to be a cool and respectable value of the frat. He said he liked the slideshow of the brothers and their mustaches as it helped him see more of the brothers.
 
 
 ### Participant 3 (Final Submission)
@@ -698,9 +698,9 @@ Task 1: The participant found the event button in the navigation bar very quickl
 
 Task 2: The participant saw the recruitment button in the navigation bar. They clicked on it, and quickly found the dates.
 
-Task 3: The participant looked at the navigation bar and saw the values button. They clicked on it, hoping to find out some positive traits about the frad through its mission statement. The participant did not find anything about mission statement on that page, but they did learn that Chi Psi values its members' mental health, which they thought was great.
+Task 3: The participant looked at the navigation bar and saw the values button. They clicked on it, hoping to find out some positive traits about the frat through its mission statement. The participant did not find anything about mission statement on that page, but they did learn that Chi Psi values its members' mental health, which they thought was great.
 
-Task 4: Again went to the values page. The participant found that Chi Psi is a frad that pays a lot of attention to philantrophy. This resonates with the participant because they organized a lot of charity events during high school and also donated money to help people in need.
+Task 4: Again went to the values page. The participant found that Chi Psi is a frat that pays a lot of attention to philantrophy. This resonates with the participant because they organized a lot of charity events during high school and also donated money to help people in need.
 
 ### Participant 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -735,7 +735,7 @@ Task 4: He navigated to the values page again and chose "Unique Brotherhood that
 
 The user that is testing the site today is a sophomore that is undecided in arts and science. He is a full time student who is an international student and loves to play sports.
 
-2. Does the user belong to your audience of the site?
+1. Does the user belong to your audience of the site?
 
 Yes, he could potentially recruit to Chi Psi Cornell.
 
@@ -749,13 +749,19 @@ Task 2: The user first went to the events page but then went to the recruitment 
 
 Task 3: He went to the events page from the previous tasks to point out the picture of all of the alumni who were in the picture. He said he really values brotherhood and life long friendship
 
-Task 4: He went to the values and indentified the brotherood
+Task 4: He went to the values and identified the brotherood
 
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+Revisions:
+
+1. We received feedback from a participant that the modals on the brothers page were too large. Make the modals on the brothers page smaller, so that there is less white space. They appear too large on wide screens and are not an appealing design.
+2. Add the brothers' names and positions underneath their photos on the brothers page, which was suggested to us by a testing participant.
+3. Add locations to the events page, as users were curious about where events were taking place. We can add locations for the alumni events, since the client wants the site to be usable for alumni. We don't want to publish locations for the brotherhood events because non-brothers should not attend them.
+4. Only one of our user testing participants visited the Brothers page, even though our task of "identifying one positive trait of the frat" was designed in the hopes of users visiting the page and reading the quotes from brothers. Therefore, we can add a button to the homepage that says "Meet Our Executive Officers" that takes users to the brothers page and fills up space on the homepage.
+5. Highlight the Chi Psi Mission Statement with inline elements, since one participant said that the values page "had no mission statement" even though it was there.
 
 
 ## Grading (Final Submission)
