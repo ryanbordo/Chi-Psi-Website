@@ -548,31 +548,42 @@ The interactivity we added to our website is used to make our audience's experie
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 Accordion:
-when #question clicked
-    show #answer
-if #question clicked again
-    hide #answer
+
+Let n be an integer denoting which question is being clicked.
+when #qn clicked
+    show #an
+if #qn clicked again
+    hide #an
 
 Carousel:
-when #arrow is clicked
-    show next #mustachepic in carousel
-when #backarrow is clicked
-    show previous #mustachepic in carousel
+when #next-button is clicked
+    show next .carouselpic
+when #prev-button is clicked
+    show previous .carouselpic
 
 Slideshow:
-every 5 seconds rotate through the #homeimages
+every 5 seconds rotate through the .slide images
+when #home-slide-button-n is clicked:
+    show corresponding image
+    add class selected to #home-slide-button-n
+    remove class selected from previously selected #home-slide-button
+
 
 Hamburger Menu:
-when #hamburger-menu clicked
-    show links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
-if #hamburger-menu clicked again
-    hide links to "About Us," "Values," "Brothers," "Events," an "Recruitment" pages
+when #hamburger clicked
+    show #hamburger-menu
+    show #ham-overlay
+if #hamburger clicked again
+    hide #hamburger-menu
+    hide #ham-overlay
 
 Modal:
-when #brotherpic is clicked
-    show #quote
-if #brotherpic is clicked again
-    hide #quote
+when #namen is clicked
+    show #quote-popup-n
+    add class gray-out to items with class .nonmodal
+when #close is clicked
+    hide #quote-popup
+    remove class gray-out from items with class .nonmodal
 
 
 ## Client Feedback & Minutes (Milestone 2)
@@ -635,6 +646,8 @@ Task 2: User said she remembered seeing a recruitment page on the navigation, an
 Task 3: User navigated to the values and philanthropy page. She looked through the pictures of the guys with their mustaches, and she said that the positive trait she identified is that they do philanthropy. She said she was confused that the navigation said "Values" while the page says "Values and Philanthropy."
 
 Task 4: User was already on the values page from the previous task. She looked at the list of values and chose "intellectual growth and the attainment of human potential." She said she didn't realize that fraternities had values, which indicates that our content may be useful.
+
+Overall, this user test went very well and shows that the information architecture and content layout of our site is understandable for users.
 
 
 ### Participant 2 (Final Submission)
