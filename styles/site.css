@@ -447,8 +447,19 @@ button img{
     }
 
     .carouselpic {
+        min-width: 400px;
+        min-height: 300px;
         width: 60%;
     }
+
+    #prev-button{
+        max-height: 304px;
+    }
+
+    #next-button{
+        max-height: 304px;
+    }
+
     nav{
         display: flex;
         flex-direction: row;
